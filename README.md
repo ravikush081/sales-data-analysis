@@ -42,8 +42,8 @@ and validation issues which were resolved through systematic data preprocessing.
 ---
 
 ##  Files Included
-- `sales_data_cleaning.ipynb` → Jupyter Notebook
-- `clean_sales_data.csv` → Cleaned dataset
+- `sales_data_analysis.ipynb` → Jupyter Notebook
+- `full_data_cleaning_practice_dataset.csv` → Cleaned dataset
 - `README.md` → Project documentation
 
 ---

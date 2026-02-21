@@ -1,0 +1,1051 @@
+order_id,customer_name,customer_age,email,phone,order_date,shipping_date,city,state,sales_amount,quantity,discount_percent,payment_mode,is_returned,product_category
+1072,sara ,200,abc@,12345,13-04-2023,2024.07.09,,Tamil Nadu,9999999,,10,,Y,Clothing
+1016,RAHUL,,user@domain,99999abc,2024.03.11,03-11-2024,PUNE ,Delhi,9999999,5,,,, electronics 
+1008,,200,abc@,9876543210,2023/09/28,01/20/2024,Chennai,Delhi,500,-1,,NetBanking,Yes,
+1074,  Amit,30,user@domain,,2023-04-17,05/26/2023, mumbai,Maharashtra,,1,0,card,,Grocery
+1014,RAHUL,-5,user@domain,99999abc,03/13/2023,2024/06/09,Chennai,,-300,2,110,,N,Electronics
+1023,RAHUL,-5,test@gmail.com,,2024.12.01,02-11-2024,PUNE ,Tamil Nadu,500,5,110,UPI ,,Grocery
+1037,Anita,,,12345,01/21/2023,2024/10/25,PUNE ,Tamil Nadu,9999999,2,0,card,Yes,
+1034,sara ,30,,9876543210,2024.09.06,2023-07-13,PUNE ,Maharashtra,,10,,card,,Grocery
+1093,RAHUL,35,test@gmail.com,,02-05-2023,08/05/2023,Delhi,Delhi,1000,,5,,Y, electronics 
+1094,RAHUL,35,abc@,12345,2024-04-11,04-05-2023, mumbai,Maharashtra,100,,5,,No,Clothing
+1048,,200,,9876543210,03-08-2023,2023-07-26,Chennai,Maharashtra,9999999,5,,,Y,Grocery
+1068,,25,test@gmail.com,,11/27/2023,2024.04.21,Chennai,Maharashtra,1000,5,110,UPI ,No,Clothing
+1061,  Amit,35,test@gmail.com,,2024.04.03,19-09-2024,,Maharashtra,-300,10,5,card,,
+1059,Anita,25,,12345,2023/03/29,2024.06.30,PUNE ,,9999999,-1,10,NetBanking,N,Clothing
+1049,  Amit,-5,abc@,9876543210,08-01-2024,02-03-2024,PUNE ,,1000,5,10,UPI ,,Grocery
+1077,,25,test@gmail.com,9876543210,2023-04-10,25-09-2023,PUNE ,Delhi,9999999,,0,Cash,Yes,Grocery
+1074,sara ,-5,user@domain,,25-10-2024,2024-01-02,Chennai,Maharashtra,500,2,,,,Electronics
+1008,,30,abc@,,2023.05.11,2024/10/25,,,,1,,card,No,Grocery
+1033,Anita,30,abc@,,2024.10.23,03/13/2023,Delhi,Delhi,1000,2,5,UPI ,Y,Clothing
+1075,,,,9876543210,05-11-2023,2023-01-15, mumbai,Maharashtra,,-1,110,Cash,N,Electronics
+1098,Anita,,,12345,2023.12.10,07/17/2023,Delhi,Tamil Nadu,500,1,,UPI ,,Grocery
+1034,Anita,200,user@domain,12345,2024.05.06,2024/01/08,Chennai,,500,2,5,UPI ,,Grocery
+1000,Anita,35,test@gmail.com,9876543210,2024-02-18,2023/05/15,PUNE ,Delhi,,2,5,NetBanking,Y,
+1039,Anita,200,,99999abc,21-01-2024,11/25/2024, mumbai,Tamil Nadu,1000,10,,NetBanking,N,Electronics
+1063,Anita,-5,,12345,07/11/2023,2023-12-12,Chennai,Maharashtra,,-1,5,UPI ,,
+1021,sara ,200,abc@,,10/04/2023,02/27/2023,Chennai,Maharashtra,,,0,Cash,,
+1059,  Amit,25,,99999abc,06/10/2023,07/17/2023,Chennai,Maharashtra,100,10,0,card,No,
+1063,RAHUL,-5,,99999abc,2024-04-04,25-02-2023, mumbai,,1000,1,,card,No, electronics 
+1092,  Amit,,,12345,11/10/2023,01/26/2023, mumbai,Delhi,100,,110,,Yes,
+1071,Anita,30,,99999abc,01/22/2023,2023/08/21,,Tamil Nadu,9999999,10,0,,Y,Clothing
+1010,sara ,,abc@,99999abc,2023-09-10,2023.02.08,,Delhi,,-1,0,card,N,Grocery
+,,35,user@domain,12345,2024-07-14,2024/07/17,Delhi,,9999999,5,,UPI ,, electronics 
+1013,sara ,-5,user@domain,12345,19-04-2024,2023/05/25, mumbai,Delhi,1000,5,10,UPI ,,
+1059,Anita,-5,test@gmail.com,99999abc,2023-02-28,2024.08.29, mumbai,,,1,5,NetBanking,Yes,Grocery
+1029,sara ,25,,,2024-05-25,13-07-2024, mumbai,Maharashtra,9999999,5,0,NetBanking,,Electronics
+1034,sara ,35,abc@,9876543210,2024/11/12,2023/07/10,,Tamil Nadu,-300,10,10,,Y,Electronics
+1084,Anita,30,test@gmail.com,99999abc,04/20/2024,11/28/2024,Chennai,Maharashtra,500,1,110,card,Yes,Grocery
+1036,sara ,-5,test@gmail.com,99999abc,2024.11.30,2023/04/05,PUNE ,Delhi,,,10,UPI ,Y,Clothing
+1004,RAHUL,-5,user@domain,,2023.07.09,01/22/2023,,Maharashtra,500,-1,,card,Yes,Grocery
+1082,RAHUL,25,abc@,99999abc,2024.11.17,2024.09.15, mumbai,Tamil Nadu,100,1,110,Cash,,Grocery
+1077,sara ,200,abc@,99999abc,2024/07/16,03-11-2024,,Maharashtra,9999999,,110,card,Yes, electronics 
+1025,,30,abc@,9876543210,2024.07.20,08/15/2024,Delhi,Tamil Nadu,100,1,10,Cash,No,Electronics
+1061,Anita,,user@domain,9876543210,09/01/2023,2023/12/12, mumbai,Tamil Nadu,,2,,NetBanking,N,Electronics
+1003,RAHUL,35,user@domain,9876543210,2024.05.19,2024-12-10,Delhi,Maharashtra,500,2,0,NetBanking,,
+1088,,-5,user@domain,12345,2023.05.11,09/10/2023, mumbai,,500,1,10,,N,Grocery
+1041,sara ,-5,user@domain,12345,04/29/2024,2024-12-09,,Delhi,9999999,5,0,card,,Grocery
+1088,,,user@domain,9876543210,10/08/2024,11-07-2023,Chennai,,,2,10,card,N,Clothing
+1017,  Amit,30,,9876543210,21-01-2023,2023.06.22,PUNE ,,-300,-1,0,Cash,No,Electronics
+1039,RAHUL,200,,12345,2023-06-16,2024.08.28,Delhi,Maharashtra,-300,,10,NetBanking,N,Clothing
+1071,sara ,-5,abc@,,2023-10-01,18-05-2024,,Delhi,9999999,10,110,Cash,Yes, electronics 
+1038,Anita,30,test@gmail.com,99999abc,01/23/2024,2024.05.27,Chennai,Delhi,,2,5,NetBanking,N,
+1013,sara ,,abc@,99999abc,23-08-2024,04/29/2024,,,9999999,1,110,Cash,,Clothing
+1031,Anita,25,test@gmail.com,9876543210,12-11-2023,2024/04/18,Delhi,Maharashtra,,5,0,NetBanking,Y,Electronics
+1050,sara ,200,user@domain,,2023-01-14,08/05/2023,PUNE ,Delhi,100,10,,Cash,N, electronics 
+1037,,35,test@gmail.com,12345,30-08-2023,2023-01-15,,,9999999,,110,NetBanking,N,Grocery
+1096,,-5,abc@,9876543210,2023-12-12,2024.10.14, mumbai,Delhi,,,5,Cash,N, electronics 
+1022,,30,abc@,,2024.07.18,03-08-2024,Chennai,Maharashtra,-300,2,0,card,,Clothing
+1062,  Amit,25,test@gmail.com,,12/06/2023,2024-02-26,,Maharashtra,,,110,,N,Electronics
+1014,Anita,35,,,2023.04.02,2024/09/01,Chennai,Maharashtra,,,10,Cash,,Clothing
+1096,,30,user@domain,12345,2024/01/02,2023-03-31, mumbai,Delhi,9999999,5,,,,Grocery
+1024,  Amit,30,user@domain,12345,2024.03.30,2023/03/31,PUNE ,Tamil Nadu,100,5,0,card,Y,Grocery
+1016,Anita,35,abc@,99999abc,03-03-2024,2023.12.14,PUNE ,Delhi,100,5,110,card,Yes,Electronics
+1096,sara ,25,,99999abc,2024-05-23,2023/06/09, mumbai,Tamil Nadu,100,1,0,NetBanking,,
+1065,  Amit,,test@gmail.com,,04-02-2023,2024-03-16,Chennai,Maharashtra,100,,10,,No, electronics 
+1077,RAHUL,25,user@domain,,07/25/2023,2024.10.21,,,1000,,5,UPI ,N, electronics 
+1052,  Amit,200,,12345,03/22/2023,2023-04-06, mumbai,Tamil Nadu,9999999,,110,NetBanking,No,Grocery
+1050,  Amit,-5,user@domain,99999abc,2024/07/15,03/20/2024,Delhi,Maharashtra,500,-1,0,,N,Clothing
+1038,Anita,35,,,2024/01/23,2023.04.17,Chennai,Maharashtra,9999999,5,0,Cash,Y,Clothing
+1050,sara ,,,99999abc,2023/01/02,2023-02-11,PUNE ,Tamil Nadu,1000,10,0,Cash,,
+1069,RAHUL,35,abc@,99999abc,2024.01.25,09/30/2023, mumbai,,100,2,5,card,Yes,Clothing
+1005,,35,user@domain,,2024.07.19,2023-04-27,PUNE ,Maharashtra,1000,10,0,UPI ,, electronics 
+1066,,25,test@gmail.com,12345,2023-04-16,09-04-2023,Chennai,Tamil Nadu,-300,1,,Cash,N,Clothing
+1006,  Amit,-5,abc@,,2024-04-21,08/05/2023,PUNE ,,-300,1,,,Yes,
+1050,Anita,200,abc@,,2024.12.03,2023/01/29, mumbai,,9999999,,0,,, electronics 
+1071,Anita,30,test@gmail.com,99999abc,2024-02-06,2024/02/23,Chennai,Maharashtra,9999999,10,,Cash,Yes,Clothing
+1041,,30,abc@,,30-12-2024,2024-06-21,Delhi,Delhi,500,,110,,N, electronics 
+1063,RAHUL,35,,12345,2024.07.09,02/07/2024, mumbai,Delhi,500,-1,,,Y,Grocery
+1014,sara ,-5,,,2023/06/11,2024.03.24,,Maharashtra,-300,1,0,card,Y,Grocery
+1028,RAHUL,,user@domain,12345,2023.07.21,2024.11.14, mumbai,,100,1,10,UPI ,,Grocery
+1032,sara ,25,user@domain,12345,2023/09/27,30-05-2024,Chennai,Maharashtra,1000,10,110,card,No,Clothing
+1093,,-5,test@gmail.com,99999abc,28-09-2023,2023/01/08, mumbai,Tamil Nadu,500,1,5,UPI ,N,
+1026,sara ,-5,user@domain,9876543210,03/31/2024,2024-10-17,Delhi,Delhi,,-1,0,,, electronics 
+1035,Anita,25,,9876543210,06-04-2024,2023.07.09,Delhi,Tamil Nadu,500,-1,5,UPI ,,Electronics
+1028,  Amit,35,test@gmail.com,99999abc,2024.12.27,10/20/2024,,Maharashtra,100,-1,10,,Y,Grocery
+1037,  Amit,-5,test@gmail.com,,09/09/2023,16-09-2024,PUNE ,Maharashtra,100,2,5,,Yes,Grocery
+1056,,30,user@domain,99999abc,12/02/2024,2024.05.06,Chennai,,9999999,-1,0,card,N,Electronics
+1096,Anita,25,,12345,10/23/2023,2023.11.01,Chennai,,1000,-1,0,card,Yes,Electronics
+,RAHUL,,test@gmail.com,9876543210,2024.12.25,2023-07-13,PUNE ,,100,2,10,NetBanking,N,Clothing
+1026,Anita,200,,99999abc,12/20/2024,04-09-2024,Delhi,Tamil Nadu,500,,0,Cash,No, electronics 
+1054,  Amit,35,,,12/04/2023,2024.09.06,Delhi,,500,5,10,NetBanking,Y,Grocery
+1032,  Amit,25,,99999abc,2023/02/22,06/27/2023, mumbai,Maharashtra,-300,1,10,NetBanking,No,
+1067,Anita,200,user@domain,9876543210,08/05/2023,2024.04.15,,,100,-1,0,UPI ,,Clothing
+1085,Anita,200,abc@,99999abc,2023/07/07,10-03-2024,,Delhi,,1,,,Y,Clothing
+1065,  Amit,,abc@,99999abc,2024.01.15,2024.05.07,,,9999999,10,10,,,
+1009,RAHUL,-5,test@gmail.com,9876543210,07-05-2024,09/10/2023, mumbai,Tamil Nadu,1000,1,0,,No,
+1004,,,,12345,02/10/2023,2024/05/19,,Delhi,,,,Cash,N,
+1073,,-5,user@domain,12345,2023.06.06,13-02-2024,PUNE ,Delhi,9999999,2,10,UPI ,,Electronics
+1096,Anita,-5,,9876543210,01/15/2023,09-07-2024, mumbai,Delhi,500,1,,UPI ,Yes,Grocery
+1037,,25,,99999abc,2023-03-06,2023/03/14,PUNE ,Tamil Nadu,,1,110,,N,Electronics
+1012,  Amit,25,user@domain,9876543210,2024.06.04,04/19/2024, mumbai,Maharashtra,9999999,1,110,NetBanking,N,Grocery
+1030,  Amit,35,abc@,12345,2023/12/10,2024/02/02,,,500,5,,Cash,No,Electronics
+1046,Anita,-5,,,2023/05/09,27-09-2024,PUNE ,Delhi,500,5,10,NetBanking,No, electronics 
+1099,Anita,200,,99999abc,2024.10.09,2023.09.25,PUNE ,Delhi,500,10,0,card,Y,Grocery
+1087,Anita,30,abc@,12345,2024-04-16,2024.10.07,PUNE ,Delhi,500,2,5,UPI ,Y,Clothing
+1051,RAHUL,35,user@domain,99999abc,04-03-2023,01/18/2023, mumbai,Maharashtra,500,1,0,UPI ,Yes,Grocery
+1055,,25,test@gmail.com,9876543210,2023-05-19,2023-07-15,Chennai,Maharashtra,-300,1,5,NetBanking,N,Grocery
+1014,Anita,,abc@,,13-05-2024,05/24/2023,,Tamil Nadu,,1,5,Cash,Yes,Grocery
+1028,sara ,35,test@gmail.com,9876543210,08/15/2024,2023-04-16,PUNE ,Maharashtra,9999999,1,10,UPI ,Yes, electronics 
+1007,sara ,35,test@gmail.com,,27-01-2024,2024.05.27,Chennai,,-300,5,,NetBanking,No,Electronics
+1004,  Amit,35,abc@,99999abc,11/05/2024,2024.05.22,,Tamil Nadu,-300,,0,Cash,Yes,Clothing
+1028,,35,,99999abc,2024/02/23,2023/12/26,,Tamil Nadu,100,,,NetBanking,Yes,Electronics
+1046,Anita,30,test@gmail.com,9876543210,10/16/2023,12-02-2023,PUNE ,,100,10,110,Cash,,Electronics
+1067,sara ,,test@gmail.com,,2024.01.14,2023.09.06,PUNE ,,100,-1,10,,Y,
+1075,,,user@domain,,2024/05/04,2023.01.02, mumbai,,1000,2,10,Cash,Y, electronics 
+1044,  Amit,,,99999abc,19-08-2023,03/26/2023,Chennai,Tamil Nadu,100,,110,card,N,
+1001,RAHUL,-5,test@gmail.com,9876543210,2023-02-10,2024-03-19,Chennai,Tamil Nadu,9999999,1,0,,Y, electronics 
+1026,,200,user@domain,,01/28/2023,04/08/2024,PUNE ,Tamil Nadu,-300,,110,NetBanking,N,Electronics
+1094,,,,99999abc,2023.05.15,2024.02.06,,,9999999,10,0,,,Electronics
+1035,RAHUL,35,abc@,12345,07/20/2023,2024/01/02,PUNE ,,,-1,5,,Y, electronics 
+1035,,35,abc@,9876543210,2023-02-02,2024.12.01,,Delhi,100,,10,NetBanking,,Electronics
+1025,  Amit,,user@domain,12345,2023.02.17,2024-12-24,,Maharashtra,1000,10,0,NetBanking,Y,Electronics
+1042,  Amit,,abc@,9876543210,2024/05/17,2024/10/15,PUNE ,Delhi,,5,,card,Y,Clothing
+1026,RAHUL,35,test@gmail.com,99999abc,2024-02-11,19-01-2024,Delhi,,1000,-1,,NetBanking,,
+1068,Anita,-5,,,07/27/2024,10/24/2024,Chennai,Tamil Nadu,,10,10,UPI ,Yes,
+1019,sara ,25,test@gmail.com,,2024.12.28,30-05-2023,,,-300,,110,UPI ,Yes,
+1010,Anita,25,test@gmail.com,,04/09/2023,13-08-2023,,Maharashtra,9999999,5,110,card,Yes,Grocery
+1073,,,abc@,9876543210,2024/11/14,2024.01.12,Delhi,Delhi,500,10,0,Cash,Yes,Clothing
+1037,sara ,30,test@gmail.com,99999abc,2024.12.26,10/04/2023, mumbai,Delhi,9999999,10,110,Cash,Y,
+1005,RAHUL,,abc@,12345,2024.06.30,2023/02/12,Delhi,Tamil Nadu,100,,10,UPI ,No,
+1071,RAHUL,,,99999abc,2024/09/04,03/13/2023,Delhi,Delhi,500,-1,0,NetBanking,,Clothing
+1022,sara ,25,,12345,06-04-2024,2024.05.25,,Delhi,1000,5,5,card,No,Electronics
+1046,  Amit,35,test@gmail.com,9876543210,2024/10/04,2024/01/11,Chennai,,-300,1,110,Cash,No,
+1089,sara ,,user@domain,9876543210,2023-01-05,11/15/2024,Delhi,Delhi,-300,2,110,Cash,N,Electronics
+1045,,35,abc@,12345,08/06/2023,2024/04/05, mumbai,Delhi,1000,-1,0,,Yes,
+1011,  Amit,35,abc@,12345,2024/05/17,2024/07/17,PUNE ,Delhi,100,5,,UPI ,Y, electronics 
+1089,RAHUL,30,test@gmail.com,12345,2024-02-02,2023.04.28,Delhi,Tamil Nadu,1000,10,110,NetBanking,Yes,Grocery
+1012,sara ,35,abc@,99999abc,28-01-2024,2023.03.19,Delhi,Tamil Nadu,,5,10,card,Yes,
+1061,Anita,25,abc@,12345,2023-07-26,2023.04.06, mumbai,,100,2,110,Cash,No, electronics 
+1081,Anita,-5,user@domain,9876543210,01/15/2023,20-05-2024,Chennai,Delhi,500,,5,,N,Clothing
+1088,,-5,user@domain,9876543210,2024-07-07,10-03-2024,Delhi,Tamil Nadu,1000,2,110,UPI ,Yes, electronics 
+1096,Anita,200,test@gmail.com,,04/05/2024,2023.12.12,Delhi,Tamil Nadu,100,1,,UPI ,,Clothing
+1059,sara ,,user@domain,12345,2024.11.21,2023-07-15,Chennai,,500,1,110,card,,
+1042,sara ,25,test@gmail.com,99999abc,2024-07-28,2024-03-10, mumbai,Maharashtra,1000,2,0,Cash,Yes,Clothing
+1075,Anita,35,,99999abc,29-08-2023,2024.04.03,Delhi,Delhi,-300,-1,110,card,No, electronics 
+1099,sara ,-5,test@gmail.com,99999abc,2024-07-17,05/25/2023,Chennai,Tamil Nadu,1000,-1,,card,No,Grocery
+1067,,25,,,2023.04.06,11/12/2024,Delhi,,9999999,10,0,,Y,Electronics
+1004,  Amit,-5,test@gmail.com,9876543210,2024.04.29,2024/12/29,PUNE ,,1000,1,10,UPI ,N,Electronics
+1036,,35,abc@,99999abc,2024.02.11,05/22/2024,,,9999999,10,0,NetBanking,No,Grocery
+1071,,-5,user@domain,9876543210,2023.08.19,20-12-2023,PUNE ,Tamil Nadu,500,1,5,UPI ,Y,Electronics
+1091,sara ,,,,2024/10/16,2024.10.23,Delhi,Delhi,1000,2,0,UPI ,,
+1030,  Amit,,test@gmail.com,12345,2023-06-20,2023.03.10, mumbai,Maharashtra,500,-1,10,,,
+1008,sara ,200,user@domain,12345,2024/06/24,2023/01/16,,Delhi,500,-1,110,NetBanking,, electronics 
+1050,RAHUL,200,test@gmail.com,12345,2023-02-05,24-03-2023,PUNE ,,100,2,0,Cash,Yes, electronics 
+1028,sara ,-5,user@domain,99999abc,2024-06-08,2024.07.25,Chennai,,500,10,0,NetBanking,N,Clothing
+1077,sara ,25,user@domain,12345,2023.06.09,30-06-2024, mumbai,Maharashtra,500,10,0,Cash,Y, electronics 
+1039,sara ,,test@gmail.com,99999abc,2024/11/29,2024.07.25,PUNE ,Delhi,1000,5,0,NetBanking,N,
+1040,  Amit,25,,,08/31/2023,2023/04/21,Chennai,,1000,1,10,card,Yes, electronics 
+1085,sara ,25,,,03/27/2023,14-04-2024,Delhi,,-300,10,,NetBanking,Y,Electronics
+1010,  Amit,-5,abc@,99999abc,2024-07-31,2024-05-31,Chennai,Delhi,100,2,,,Y,Clothing
+1022,Anita,25,user@domain,9876543210,2024-11-12,2024.02.06,PUNE ,,500,10,0,Cash,No,Clothing
+1000,RAHUL,,abc@,12345,2024/07/10,18-03-2024,PUNE ,Delhi,100,-1,10,UPI ,N,
+1045,  Amit,35,abc@,12345,07/27/2024,2024/05/17,Delhi,,9999999,1,10,,N, electronics 
+,Anita,200,test@gmail.com,12345,2024.10.07,20-10-2024,Chennai,Delhi,500,,0,Cash,No,Electronics
+1020,  Amit,35,test@gmail.com,99999abc,2023.01.28,2024.05.19,Chennai,Maharashtra,100,5,5,Cash,, electronics 
+1089,  Amit,25,test@gmail.com,,2024.09.11,2024/06/09,Delhi,,-300,1,0,UPI ,Yes,Grocery
+1035,RAHUL,35,user@domain,12345,09-07-2024,2024/08/17,Chennai,Maharashtra,-300,-1,5,card,N, electronics 
+1053,,,test@gmail.com,,2023.12.06,04/04/2024,Delhi,,500,-1,0,,No,
+1086,,,test@gmail.com,12345,27-11-2023,2023-06-25, mumbai,,9999999,-1,5,UPI ,Y, electronics 
+1056,  Amit,25,user@domain,12345,2024.10.01,2024-07-17,PUNE ,Tamil Nadu,-300,-1,5,UPI ,No,Clothing
+1000,sara ,-5,user@domain,99999abc,2024.05.20,10/10/2023, mumbai,Delhi,-300,2,0,card,,Electronics
+1062,Anita,35,,9876543210,14-12-2023,09/13/2023,,Maharashtra,9999999,5,5,,Yes,
+1053,sara ,-5,test@gmail.com,99999abc,2024/04/17,2023-10-01,,Maharashtra,100,,110,UPI ,,Grocery
+1054,sara ,-5,test@gmail.com,12345,2023/08/19,07/25/2023,,Maharashtra,-300,-1,,card,Y,Electronics
+1039,  Amit,30,test@gmail.com,12345,07/09/2023,30-06-2023,Delhi,Delhi,1000,-1,10,,Y,Electronics
+1014,  Amit,25,,9876543210,2023-08-13,04/16/2023,Chennai,Tamil Nadu,,10,5,NetBanking,Y,Clothing
+1020,  Amit,200,test@gmail.com,,20-01-2024,2023.01.28, mumbai,Maharashtra,,5,5,Cash,Y,Clothing
+1046,  Amit,,,,12-01-2024,04/05/2024, mumbai,Delhi,-300,1,10,card,No,Clothing
+1072,,,abc@,12345,10-10-2023,01/26/2023, mumbai,,100,5,5,Cash,Y,
+1052,  Amit,25,,,2024/09/24,07/14/2023, mumbai,Maharashtra,100,5,10,NetBanking,Y, electronics 
+1008,,200,abc@,12345,19-09-2024,2024.12.26,,Maharashtra,500,,0,UPI ,No,Electronics
+1073,,,test@gmail.com,9876543210,16-09-2023,04/02/2023, mumbai,Tamil Nadu,1000,5,110,UPI ,Y, electronics 
+1051,  Amit,25,abc@,9876543210,2023/12/25,2024/10/23,Chennai,Maharashtra,100,,110,,, electronics 
+1056,RAHUL,,,12345,2024/12/10,2024/06/09,,Maharashtra,9999999,-1,,card,,Clothing
+1025,Anita,-5,user@domain,9876543210,03/31/2024,03/27/2023, mumbai,,1000,-1,5,card,N, electronics 
+1040,sara ,35,abc@,99999abc,2024-02-15,24-03-2023,Delhi,Delhi,,2,,,,Electronics
+1034,,35,abc@,99999abc,10-10-2024,26-08-2024,PUNE ,Delhi,1000,,0,Cash,Yes,Electronics
+1062,Anita,,test@gmail.com,9876543210,11/14/2023,05/22/2024,PUNE ,Tamil Nadu,9999999,,110,UPI ,Yes,Grocery
+1024,RAHUL,30,,12345,2024-11-07,11/14/2023,PUNE ,,-300,1,0,UPI ,Yes,
+1089,sara ,200,abc@,12345,2023-08-13,2023.08.30,,Delhi,9999999,10,0,card,No, electronics 
+1074,sara ,200,abc@,9876543210,08/22/2023,08/05/2023, mumbai,,9999999,5,5,card,,
+1037,,200,abc@,,2024.11.14,05/26/2023,,Delhi,-300,1,0,,Yes,
+1001,  Amit,-5,abc@,99999abc,2024/10/25,08/22/2023,Chennai,,-300,,110,NetBanking,N,
+1006,RAHUL,200,user@domain,,2024.01.09,20-05-2024,Delhi,Tamil Nadu,-300,1,,Cash,No,
+1081,,35,,12345,11/02/2024,27-09-2024,Delhi,Maharashtra,-300,2,110,NetBanking,N,Electronics
+1090,RAHUL,-5,test@gmail.com,12345,08/30/2024,17-02-2023,PUNE ,Tamil Nadu,-300,10,5,NetBanking,, electronics 
+1033,  Amit,25,test@gmail.com,,2024-04-16,02/23/2023,PUNE ,Delhi,9999999,,110,card,Y,Grocery
+1090,  Amit,200,user@domain,9876543210,2023/08/21,2024-09-16,PUNE ,Tamil Nadu,500,,10,card,N,
+1016,,200,,,2024.11.22,07/17/2023, mumbai,Maharashtra,500,5,,card,Y,Grocery
+1042,  Amit,25,abc@,,23-04-2023,11/02/2024,Chennai,Tamil Nadu,100,10,10,NetBanking,No,Electronics
+1058,Anita,200,user@domain,99999abc,2024-05-11,2024.09.19,Chennai,Delhi,500,2,10,Cash,N,Electronics
+1050,sara ,25,,99999abc,03/17/2024,2024/03/13,Chennai,Delhi,,-1,5,card,N,Clothing
+1053,,-5,abc@,,17-07-2024,15-11-2024,Chennai,Tamil Nadu,500,1,0,UPI ,No,
+1023,RAHUL,35,user@domain,,25-09-2023,2024-02-02,PUNE ,Maharashtra,9999999,5,10,Cash,No,Clothing
+1024,Anita,25,,12345,05/24/2024,10-03-2024,Delhi,Tamil Nadu,-300,,110,UPI ,Yes,Grocery
+1070,,30,test@gmail.com,99999abc,21-01-2024,31-07-2024,PUNE ,Maharashtra,-300,-1,0,Cash,, electronics 
+1051,  Amit,25,test@gmail.com,99999abc,2024/01/22,14-12-2023,Chennai,,9999999,2,110,card,N,Clothing
+1069,  Amit,200,,12345,2023-04-23,2024-07-31,PUNE ,Maharashtra,,10,110,,N,Electronics
+1087,  Amit,-5,test@gmail.com,9876543210,04-09-2024,03/17/2024,Chennai,,500,1,0,card,No,
+1032,  Amit,,,99999abc,16-09-2024,03/17/2024,,Tamil Nadu,9999999,5,0,NetBanking,No,Grocery
+1048,RAHUL,-5,abc@,99999abc,2023.03.22,2023/12/08,Delhi,Maharashtra,100,,110,NetBanking,,Electronics
+1028,Anita,,,9876543210,2024-11-29,2024/03/16,,,-300,,5,Cash,No, electronics 
+1062,sara ,25,abc@,99999abc,04/23/2023,2023/08/24, mumbai,,1000,-1,,NetBanking,Y,
+1021,RAHUL,35,user@domain,99999abc,2023.01.02,24-05-2023,PUNE ,,100,-1,,card,Y, electronics 
+1025,RAHUL,30,,9876543210,2024/10/03,2024/09/04, mumbai,Delhi,,1,5,UPI ,Y, electronics 
+1027,sara ,-5,user@domain,9876543210,08-08-2023,2023.08.04,PUNE ,Tamil Nadu,100,10,0,card,Y,
+1084,sara ,200,test@gmail.com,,19-07-2024,2024/09/17,,,9999999,2,110,Cash,,
+1048,  Amit,,abc@,12345,13-08-2023,2024.10.09,Chennai,Maharashtra,500,10,,NetBanking,N, electronics 
+1070,RAHUL,200,,12345,2024.01.20,2024.12.28,Chennai,,-300,10,110,UPI ,Y,Grocery
+1080,,35,user@domain,9876543210,2024-02-07,2024/02/05,PUNE ,Delhi,,10,5,,No,
+1083,sara ,,abc@,9876543210,2024/09/29,2024/06/15,Chennai,Tamil Nadu,,1,110,UPI ,Y,Electronics
+1048,sara ,-5,abc@,99999abc,05/10/2023,17-06-2023,,Delhi,1000,1,5,UPI ,,Clothing
+1019,Anita,25,test@gmail.com,,02/22/2023,2023.12.01,Chennai,Delhi,100,2,0,card,No,Grocery
+1085,,200,test@gmail.com,,2024.11.14,2023-09-04,,Delhi,1000,10,5,,Y,
+1091,,35,abc@,9876543210,30-12-2024,2023/07/22, mumbai,Maharashtra,500,1,5,Cash,N,
+1062,sara ,-5,abc@,99999abc,2024-11-02,2023-04-27,,Tamil Nadu,500,2,,Cash,No,Grocery
+1060,  Amit,-5,,99999abc,2024/12/10,2023.11.08,Delhi,Tamil Nadu,1000,,110,UPI ,No,Clothing
+1048,Anita,-5,abc@,12345,20-02-2024,2023/08/21,Delhi,Maharashtra,-300,2,,UPI ,N, electronics 
+1070,,-5,,12345,2023-09-04,14-09-2024,Delhi,Tamil Nadu,500,10,10,NetBanking,No,Electronics
+1000,sara ,,abc@,99999abc,2024.03.14,2024-11-19,PUNE ,Delhi,1000,5,5,,Y,
+1095,,-5,test@gmail.com,12345,2023/07/22,15-07-2023,PUNE ,Tamil Nadu,100,10,10,UPI ,No,Clothing
+1012,Anita,200,,9876543210,07/03/2023,20-05-2024,PUNE ,Maharashtra,1000,5,,NetBanking,Y,Electronics
+1093,Anita,35,user@domain,99999abc,2023-05-03,25-09-2024,,Delhi,1000,2,110,,N,Grocery
+1086,RAHUL,,test@gmail.com,12345,02/05/2024,14-12-2023,PUNE ,Maharashtra,9999999,,,Cash,Yes,
+1050,sara ,-5,,,2023.10.21,08-02-2023, mumbai,,500,,110,NetBanking,N, electronics 
+1055,Anita,30,,99999abc,07-10-2023,2023/08/19,Delhi,Delhi,-300,1,110,,Y,Grocery
+1082,RAHUL,30,user@domain,99999abc,01-09-2024,02-11-2024,,Delhi,-300,,0,NetBanking,,
+1061,RAHUL,35,,,07/17/2023,2023.09.29,Delhi,Tamil Nadu,9999999,-1,5,UPI ,N,Clothing
+1031,,25,abc@,9876543210,2024.05.25,2023-02-06,PUNE ,Delhi,,2,,card,,Electronics
+1029,,25,user@domain,,05/24/2023,2024-06-20,,Maharashtra,-300,1,110,Cash,,Electronics
+1028,RAHUL,,test@gmail.com,99999abc,2024/08/31,01/06/2023,Chennai,Tamil Nadu,1000,,,UPI ,Y,
+1048,,,test@gmail.com,9876543210,2023/07/20,2023/04/01, mumbai,,9999999,2,,UPI ,Y,Grocery
+1044,Anita,,abc@,12345,04-05-2023,11-05-2024,PUNE ,Maharashtra,100,10,110,,Yes, electronics 
+1092,  Amit,25,test@gmail.com,12345,2023.07.06,12/08/2023,PUNE ,,500,,10,NetBanking,No,Clothing
+1029,Anita,30,,12345,11/22/2023,2023-04-17, mumbai,,500,5,5,Cash,N,
+1015,RAHUL,25,,99999abc,04/08/2024,2023/07/07, mumbai,,500,2,5,UPI ,Y,Clothing
+1039,RAHUL,200,abc@,,2023.12.15,04-01-2024,Chennai,Delhi,1000,1,0,,N,Electronics
+1018,Anita,-5,test@gmail.com,9876543210,2024.10.21,2024.12.01,PUNE ,Maharashtra,100,10,0,Cash,, electronics 
+1017,,,test@gmail.com,12345,2024-02-07,2024/08/09,PUNE ,Maharashtra,9999999,-1,0,NetBanking,No,Clothing
+1000,,30,abc@,9876543210,2023.12.12,2024/05/10,Delhi,Delhi,9999999,10,5,UPI ,Yes,
+1077,RAHUL,35,user@domain,99999abc,2024-05-25,2023.04.06,,Tamil Nadu,500,,10,UPI ,N, electronics 
+1046,sara ,35,test@gmail.com,12345,2023-05-27,31-07-2024,,,100,5,5,UPI ,No,Grocery
+1065,,-5,user@domain,99999abc,2023.05.28,12/16/2023,Delhi,Maharashtra,100,10,5,Cash,Yes,
+1091,Anita,30,test@gmail.com,,2024-12-11,2023-01-15,,Delhi,100,-1,5,Cash,N,Clothing
+1093,,25,test@gmail.com,99999abc,05/03/2024,2023-06-19, mumbai,,-300,1,5,Cash,No, electronics 
+1037,Anita,25,test@gmail.com,99999abc,2024.10.01,03-08-2024,,Tamil Nadu,-300,2,10,Cash,Y,
+1050,RAHUL,200,test@gmail.com,,2024/07/04,2024/06/01,,Tamil Nadu,500,5,0,,N, electronics 
+1062,,200,,9876543210,2023/12/04,17-07-2024,Delhi,,100,-1,,card,No, electronics 
+1003,Anita,25,user@domain,,10/02/2024,04/23/2023,Chennai,Tamil Nadu,,,0,,Yes, electronics 
+1000,RAHUL,35,user@domain,,2024-04-17,2024.12.01,,Maharashtra,100,,0,UPI ,No,Clothing
+1007,sara ,,test@gmail.com,99999abc,2023.05.31,2023/11/23,,Maharashtra,9999999,,,,Y,
+1028,Anita,35,test@gmail.com,9876543210,19-02-2024,2024.05.04,Chennai,Maharashtra,9999999,5,5,NetBanking,N,Electronics
+1054,sara ,200,user@domain,12345,25-10-2023,11-07-2023,Delhi,Tamil Nadu,500,10,10,Cash,N,Electronics
+1002,sara ,-5,,,02-09-2024,29-09-2024,Chennai,Maharashtra,,5,10,NetBanking,N,Clothing
+1031,  Amit,25,abc@,9876543210,2023.09.20,04/10/2024,Delhi,Delhi,100,,0,NetBanking,Y,Clothing
+1009,,200,abc@,,2023-05-24,2023-05-19, mumbai,Maharashtra,,-1,,UPI ,Yes, electronics 
+1073,Anita,200,user@domain,,2023.12.12,12/14/2023,Delhi,Maharashtra,500,2,110,Cash,N,
+1082,sara ,,test@gmail.com,,2024.09.15,22-02-2023, mumbai,Tamil Nadu,9999999,2,5,NetBanking,Yes,
+1033,  Amit,25,test@gmail.com,,25-07-2024,02/20/2023, mumbai,Maharashtra,9999999,5,0,UPI ,No,Grocery
+1096,RAHUL,,,99999abc,2023.01.02,02/10/2023,Delhi,,-300,,10,Cash,Yes,Grocery
+1086,Anita,25,abc@,9876543210,31-10-2023,20-05-2024,PUNE ,Delhi,500,1,,card,Yes,Electronics
+1054,sara ,,,9876543210,2023.09.11,2024.08.28,Delhi,Tamil Nadu,500,5,,UPI ,N,Grocery
+1091,,35,abc@,9876543210,10/13/2024,25-08-2023,,Delhi,100,,0,,,Grocery
+1031,  Amit,-5,user@domain,,28-03-2024,2023/03/14,,,100,10,110,Cash,,Electronics
+1049,sara ,-5,abc@,99999abc,2023-02-06,03/10/2023,PUNE ,Tamil Nadu,-300,2,10,NetBanking,Y,Electronics
+1006,,25,,,09-06-2023,2024.07.12, mumbai,Tamil Nadu,1000,2,0,NetBanking,Y,Grocery
+1092,sara ,30,,,2023-01-09,2023/05/06,PUNE ,Maharashtra,,2,110,,,
+1007,Anita,200,,9876543210,2023/08/21,04-09-2024,,Delhi,1000,1,,,No,Grocery
+1064,Anita,200,user@domain,,09-04-2023,05/26/2023,PUNE ,,1000,,5,NetBanking,N, electronics 
+1056,Anita,25,abc@,12345,2024-10-20,2024/09/04,Delhi,,500,,10,Cash,N, electronics 
+1066,  Amit,,abc@,,2023.07.27,07/08/2023,PUNE ,Tamil Nadu,,,10,UPI ,No, electronics 
+1087,Anita,30,,12345,2023/05/11,2024/02/26, mumbai,Maharashtra,500,,110,,No,Clothing
+1086,,35,abc@,,2024.02.08,2024.12.29,Delhi,Tamil Nadu,,1,0,,, electronics 
+1058,sara ,,test@gmail.com,99999abc,2023.06.01,2024.01.09,Chennai,Tamil Nadu,9999999,-1,,,Y,
+1071,RAHUL,,test@gmail.com,99999abc,02/23/2023,2023/01/01,,Tamil Nadu,500,5,110,card,No,Clothing
+1053,,25,test@gmail.com,9876543210,2023/04/30,2024/10/16,,Tamil Nadu,500,5,5,Cash,Y,Clothing
+,,25,abc@,,11/03/2024,2024/06/09,PUNE ,,500,,5,Cash,Yes, electronics 
+1066,Anita,200,user@domain,12345,2024.09.19,2024/12/17,Delhi,,-300,10,5,Cash,N,Grocery
+1050,  Amit,25,user@domain,12345,2024/08/09,2024.09.15,Chennai,Tamil Nadu,500,2,110,Cash,,Electronics
+1096,sara ,25,user@domain,,2024-09-16,2023-04-28,Delhi,Tamil Nadu,100,1,,Cash,N,Grocery
+1091,  Amit,25,user@domain,12345,2024/02/24,03-02-2023,,Maharashtra,100,10,10,NetBanking,,Grocery
+1007,sara ,200,test@gmail.com,99999abc,2024/02/26,10/29/2023,Delhi,Tamil Nadu,,10,0,,Yes,Clothing
+1033,sara ,35,test@gmail.com,12345,04/14/2023,2024/05/26,Chennai,,9999999,,10,NetBanking,N,Clothing
+1034,  Amit,35,,9876543210,2023/09/11,2024-11-18,PUNE ,Delhi,-300,1,,card,Yes,Clothing
+1095,,25,abc@,99999abc,2023-08-15,30-12-2024, mumbai,,,5,10,UPI ,,
+1087,sara ,200,abc@,99999abc,22-04-2023,01/09/2023,Delhi,Maharashtra,100,2,110,,No,
+1077,  Amit,35,user@domain,99999abc,05/24/2024,31-10-2023, mumbai,,-300,5,5,card,N,Electronics
+1031,sara ,,test@gmail.com,,17-04-2024,2024-11-02,,Delhi,-300,10,,NetBanking,Yes,Clothing
+1045,RAHUL,35,user@domain,,04/09/2023,16-03-2023,PUNE ,Tamil Nadu,9999999,2,,UPI ,N, electronics 
+1015,,35,,99999abc,06/02/2023,2024.01.14,PUNE ,Delhi,-300,-1,10,card,N,Clothing
+1067,Anita,200,abc@,,2023.12.04,2023-05-27,Delhi,Tamil Nadu,500,10,110,UPI ,N,
+1036,sara ,,abc@,12345,12/06/2024,02/05/2024,PUNE ,Tamil Nadu,-300,5,10,card,Y,Clothing
+1053,RAHUL,200,user@domain,,06/12/2023,10/06/2024,Delhi,,9999999,5,10,NetBanking,Yes,
+1084,Anita,25,,,2024/12/20,01-12-2023,Delhi,,,,,UPI ,Yes,Clothing
+1013,Anita,-5,abc@,99999abc,2024-11-11,2024/01/25, mumbai,,9999999,5,10,card,N, electronics 
+1094,sara ,35,,9876543210,06/10/2023,06-04-2024,PUNE ,Maharashtra,9999999,1,5,NetBanking,No,Electronics
+1054,  Amit,-5,,9876543210,2024.08.02,2024.12.28,Delhi,,100,10,10,,N, electronics 
+1047,sara ,200,user@domain,9876543210,2024/02/02,2023-08-13, mumbai,Maharashtra,500,2,5,NetBanking,Y,
+1081,RAHUL,200,test@gmail.com,12345,2023-10-04,2023/01/02,Chennai,,100,5,,NetBanking,,Grocery
+1006,Anita,200,user@domain,,2024.05.18,10/08/2024, mumbai,Tamil Nadu,,,110,,Y, electronics 
+1073,sara ,-5,test@gmail.com,9876543210,01/27/2024,2023-01-03, mumbai,Maharashtra,1000,,5,NetBanking,No,Clothing
+1006,  Amit,200,,99999abc,2023/05/15,2024/07/04,Delhi,Delhi,,5,110,,N,Electronics
+1032,sara ,25,test@gmail.com,9876543210,07/14/2023,2023/08/12,,Maharashtra,500,1,110,,Yes,Clothing
+1022,,200,,9876543210,2024/02/05,01/22/2023,,Maharashtra,-300,,5,,N,Clothing
+1084,  Amit,30,abc@,,2024-10-01,2023/05/11,,Delhi,9999999,2,,card,No, electronics 
+1018,RAHUL,-5,abc@,,02/02/2023,2024/06/01, mumbai,Maharashtra,1000,10,0,UPI ,Yes,Electronics
+1018,Anita,30,abc@,,2024-11-18,2023/01/13,Delhi,Tamil Nadu,500,-1,110,card,Y,Grocery
+1035,sara ,200,user@domain,12345,04/04/2024,07/17/2023,PUNE ,,100,1,110,,,Clothing
+1028,  Amit,25,user@domain,12345,2024/04/14,2024-02-07, mumbai,Delhi,9999999,,,UPI ,,Electronics
+1059,,35,,9876543210,01/10/2024,07/23/2024, mumbai,,,10,,UPI ,N,Grocery
+1081,  Amit,,abc@,,01/22/2023,2023/06/09,Delhi,Tamil Nadu,100,-1,10,,Y,Clothing
+1001,,,user@domain,9876543210,2024-10-31,07/11/2023,Chennai,Delhi,500,5,,UPI ,No,Electronics
+1000,RAHUL,200,abc@,99999abc,2023-02-07,04/19/2023, mumbai,,500,5,110,UPI ,, electronics 
+1046,Anita,25,user@domain,99999abc,2023.08.18,03/25/2024,Chennai,,,2,5,card,Y,Clothing
+1068,RAHUL,-5,test@gmail.com,,2023/12/31,30-05-2024,Chennai,Tamil Nadu,1000,-1,0,UPI ,N,Clothing
+1019,sara ,30,test@gmail.com,,07/16/2024,11-05-2024,,,,5,10,,Yes,Electronics
+1010,  Amit,30,abc@,99999abc,2024/03/13,2024-10-01,Delhi,Tamil Nadu,-300,5,5,Cash,N,Clothing
+1001,,30,,,10/10/2023,2024.10.14,Chennai,Maharashtra,100,,0,Cash,N,Grocery
+1066,,-5,user@domain,12345,01/27/2023,04-06-2023,Delhi,Tamil Nadu,1000,2,0,Cash,Y,Clothing
+1086,  Amit,,user@domain,12345,08/14/2023,26-03-2024,,Maharashtra,9999999,10,0,,,
+1011,  Amit,25,test@gmail.com,,10/04/2023,2024-05-17,Delhi,Delhi,-300,5,5,Cash,Y,Grocery
+1019,sara ,-5,test@gmail.com,99999abc,31-08-2024,07/11/2023, mumbai,,1000,1,10,card,Yes,Electronics
+1004,RAHUL,30,,9876543210,2023.10.11,03/28/2024,Chennai,Tamil Nadu,100,1,10,,Y,Grocery
+1036,,200,,,04/25/2024,30-06-2023,Delhi,Tamil Nadu,500,10,0,,No,
+1037,sara ,35,,,03/28/2024,2023-02-10,PUNE ,,9999999,-1,5,,N,
+1093,RAHUL,-5,abc@,9876543210,10/20/2024,21-01-2023,Delhi,,,2,0,UPI ,,Clothing
+1008,sara ,-5,test@gmail.com,,2024.05.30,2024-05-25,Chennai,Delhi,100,,,UPI ,Yes,Clothing
+1097,,25,abc@,9876543210,30-06-2024,05-02-2024,,Delhi,-300,1,10,UPI ,N, electronics 
+1052,  Amit,25,test@gmail.com,99999abc,2023/07/11,2023-03-06,,Tamil Nadu,-300,1,110,NetBanking,Y,Grocery
+1043,  Amit,-5,test@gmail.com,12345,18-02-2023,03/17/2023,Chennai,Delhi,500,10,0,card,No, electronics 
+1098,RAHUL,30,user@domain,99999abc,26-05-2024,2024/02/22, mumbai,Maharashtra,500,-1,,,Y,
+1085,Anita,35,test@gmail.com,12345,2023.01.17,2024/10/19, mumbai,Delhi,9999999,-1,10,,N,Clothing
+1023,RAHUL,25,test@gmail.com,9876543210,2023/06/21,2023.07.09,,Delhi,,10,5,UPI ,Yes,Clothing
+1080,Anita,30,abc@,12345,2023/08/08,2024/10/03,,Tamil Nadu,9999999,1,10,,,Clothing
+1073,sara ,200,test@gmail.com,99999abc,07-06-2023,09/16/2023,Chennai,Maharashtra,500,2,5,,N,Electronics
+1029,sara ,25,abc@,12345,2024.04.21,05/25/2023, mumbai,Delhi,500,1,5,Cash,Yes,
+1058,,30,,9876543210,2023.02.15,02-03-2024,,Maharashtra,-300,-1,0,,N,Clothing
+1086,Anita,30,test@gmail.com,12345,2024/01/08,08-09-2023, mumbai,Maharashtra,500,,0,NetBanking,No,
+1095,,35,test@gmail.com,,2024-06-01,2023.04.28,,Maharashtra,1000,1,10,UPI ,Y,Clothing
+1080,  Amit,35,abc@,99999abc,04/09/2023,2023-01-28,Delhi,,100,2,,card,,Grocery
+1080,Anita,200,,,2023-02-06,2023.04.09,PUNE ,,500,5,10,card,Yes,
+1013,RAHUL,30,user@domain,9876543210,2023-10-07,10/02/2024,Delhi,,9999999,1,110,Cash,, electronics 
+1008,  Amit,,,12345,2023/12/15,2023/12/12,,,,10,5,card,,Electronics
+1039,  Amit,30,abc@,,2024-05-11,2023.02.17,PUNE ,Tamil Nadu,,5,5,card,, electronics 
+1065,RAHUL,35,,,10/29/2023,2024-06-29,PUNE ,Delhi,,10,0,UPI ,Yes,
+1024,  Amit,,abc@,12345,30-06-2023,2023/05/20,,,1000,10,,UPI ,Yes,Clothing
+1072,Anita,25,abc@,12345,2024.08.29,2023-01-14,,Tamil Nadu,9999999,10,0,NetBanking,,
+1021,,25,user@domain,99999abc,2023-04-09,31-08-2024, mumbai,Delhi,1000,1,110,Cash,Y,Electronics
+1003,  Amit,-5,test@gmail.com,,2024/11/30,2023/03/16,,,500,-1,10,card,N,
+1025,Anita,35,abc@,,2023/04/26,2023/07/20,Chennai,Delhi,100,5,10,NetBanking,,Clothing
+1057,sara ,-5,abc@,9876543210,2023/07/10,04/01/2024,,,,2,,Cash,No, electronics 
+1028,Anita,,user@domain,99999abc,09/10/2023,16-03-2023,Chennai,Tamil Nadu,9999999,-1,0,card,,Grocery
+1097,,35,abc@,9876543210,2023.06.10,2023.04.10,,Maharashtra,,1,0,card,Yes, electronics 
+1086,Anita,200,test@gmail.com,,09/13/2023,11/14/2023, mumbai,Maharashtra,1000,10,110,UPI ,N,Clothing
+1036,RAHUL,30,user@domain,9876543210,2023-11-19,17-02-2023,Chennai,Delhi,-300,2,10,,No,Clothing
+1074,,200,test@gmail.com,,2023.05.08,04-01-2024,Delhi,Tamil Nadu,500,5,0,Cash,N,Electronics
+1069,sara ,,test@gmail.com,,01/18/2023,25-10-2023,Chennai,Maharashtra,100,-1,,card,N,
+1017,RAHUL,35,user@domain,9876543210,07/19/2024,2023.11.18, mumbai,,500,,10,Cash,No,
+1084,Anita,,abc@,9876543210,07/23/2024,2023-11-19,Chennai,Maharashtra,-300,-1,110,NetBanking,, electronics 
+1041,,30,test@gmail.com,12345,11/19/2023,2023/01/16,,Delhi,100,2,,NetBanking,,Grocery
+1099,sara ,25,test@gmail.com,12345,11/16/2024,2024-10-31,,Delhi,-300,1,5,,,Grocery
+1040,RAHUL,25,test@gmail.com,12345,2024/09/17,05/24/2023, mumbai,Tamil Nadu,500,5,110,card,Y,Electronics
+1037,sara ,,test@gmail.com,,15-10-2023,2024-11-11,PUNE ,Delhi,1000,2,,UPI ,,Clothing
+1033,Anita,-5,user@domain,9876543210,2024/10/24,04/09/2023,,Maharashtra,500,10,0,card,No,Electronics
+1016,sara ,35,user@domain,99999abc,30-09-2024,30-12-2024,Delhi,Maharashtra,500,5,5,Cash,Y,
+1036,  Amit,35,,,04-06-2023,11/28/2024, mumbai,Maharashtra,500,-1,110,NetBanking,,Clothing
+1024,RAHUL,25,,99999abc,2024.05.04,04/25/2024,Chennai,Maharashtra,9999999,2,0,Cash,Y,Electronics
+1075,sara ,200,test@gmail.com,9876543210,01/21/2024,04/18/2024,Chennai,Tamil Nadu,-300,-1,5,,No, electronics 
+1086,Anita,30,abc@,,2023.04.14,2023.11.15,Delhi,,-300,-1,10,NetBanking,,
+1085,Anita,200,test@gmail.com,99999abc,28-01-2024,15-11-2024,,,,-1,0,UPI ,Yes,Grocery
+1084,sara ,200,abc@,99999abc,2023.09.03,2023/08/08, mumbai,Tamil Nadu,-300,1,,NetBanking,No,Electronics
+1026,Anita,,test@gmail.com,12345,2023-06-25,2024.03.07,Delhi,Delhi,,-1,110,card,N,
+1056,,25,,12345,08-02-2023,2024.10.28,,,9999999,10,5,card,N,
+1030,,25,,12345,04/21/2024,2024/09/04, mumbai,Delhi,1000,10,0,NetBanking,No,Grocery
+1005,,25,abc@,,11/12/2024,2023.06.01,Chennai,,,5,10,,N,Grocery
+1090,  Amit,,test@gmail.com,9876543210,2024-06-21,11-08-2023, mumbai,Delhi,500,,110,card,No,Grocery
+1039,sara ,-5,abc@,9876543210,2024-02-12,2023-04-16,PUNE ,Tamil Nadu,1000,-1,110,card,Yes,Electronics
+1097,  Amit,200,,12345,2024.06.08,02-09-2024, mumbai,Maharashtra,9999999,-1,0,UPI ,No,Grocery
+1011,Anita,,test@gmail.com,12345,20-05-2024,2024-06-23,PUNE ,Delhi,-300,2,10,NetBanking,, electronics 
+1052,  Amit,35,test@gmail.com,12345,2023.02.05,27-10-2024, mumbai,Maharashtra,,1,5,card,,
+1070,Anita,30,abc@,99999abc,11/15/2024,05/22/2024,PUNE ,Delhi,500,,0,,Y,Grocery
+1009,Anita,-5,user@domain,12345,01/20/2023,2023-12-16,Chennai,Delhi,100,5,5,Cash,N,
+1044,RAHUL,35,abc@,99999abc,2023/11/17,2023.03.10,,Delhi,100,,110,NetBanking,N,Clothing
+1016,,200,,9876543210,2024/05/26,2024-09-04,PUNE ,Delhi,1000,-1,5,UPI ,No,Clothing
+1025,Anita,25,,,2024.02.04,09/22/2024,PUNE ,Delhi,-300,2,10,card,N,Grocery
+1084,RAHUL,200,,,15-10-2024,11/27/2023,Chennai,Maharashtra,100,1,,,,
+1091,,,,,15-04-2024,04/05/2024,PUNE ,Delhi,1000,5,10,NetBanking,Yes,Clothing
+1061,Anita,30,,,05/23/2023,2023.03.13,Delhi,Maharashtra,9999999,,5,,No,Grocery
+1045,Anita,,user@domain,99999abc,04/02/2023,18-08-2024,Chennai,Tamil Nadu,1000,5,0,,N,
+1063,  Amit,-5,test@gmail.com,99999abc,20-12-2023,25-10-2024,Delhi,,1000,-1,110,UPI ,,Grocery
+1001,  Amit,-5,abc@,12345,2024-12-27,2024-05-23,Chennai,Delhi,1000,5,,NetBanking,Y,
+1053,,30,abc@,99999abc,02/20/2023,2024-12-11,PUNE ,,500,2,0,card,N,Clothing
+1064,Anita,35,,12345,10/26/2024,2023/10/12,Delhi,Maharashtra,1000,5,0,UPI ,Yes,Grocery
+1050,sara ,35,abc@,12345,11/28/2024,2024.05.04,PUNE ,Tamil Nadu,,10,10,card,Yes,Clothing
+1052,  Amit,-5,,,2024/07/28,18-05-2023,Chennai,Tamil Nadu,1000,2,5,Cash,N,Grocery
+1035,,-5,user@domain,99999abc,2023.07.09,2023/03/31,PUNE ,Tamil Nadu,500,,10,,N,Electronics
+1025,Anita,25,user@domain,99999abc,2023-05-05,2023/03/31,Delhi,,500,1,5,Cash,,Clothing
+1028,Anita,35,test@gmail.com,12345,30-05-2023,11/12/2024,Delhi,Maharashtra,9999999,1,10,,N,Clothing
+1020,sara ,30,user@domain,12345,11/10/2023,12/04/2023,PUNE ,Delhi,-300,-1,0,UPI ,Y, electronics 
+1010,,35,user@domain,9876543210,07/23/2024,2023.08.30, mumbai,Delhi,100,-1,110,card,,Clothing
+1039,Anita,25,test@gmail.com,9876543210,2023/12/08,18-05-2023,Chennai,Maharashtra,100,10,5,card,No,
+1010,  Amit,,abc@,12345,01-11-2023,2023-06-15,Chennai,,1000,,,UPI ,Y,Grocery
+1035,sara ,-5,,9876543210,2024.11.22,02/19/2024,PUNE ,Delhi,9999999,1,,NetBanking,,Electronics
+1058,,-5,,9876543210,2024/11/12,01/26/2023, mumbai,Maharashtra,1000,1,0,Cash,,
+1038,sara ,25,abc@,12345,2023/02/23,2023-08-13,Delhi,Delhi,100,1,10,Cash,Yes,
+1098,  Amit,30,test@gmail.com,12345,2024-03-19,30-12-2024,,Tamil Nadu,500,1,10,card,,
+1053,,-5,abc@,99999abc,04-09-2024,2023/01/29,,Delhi,-300,5,0,card,Y,
+1097,sara ,200,user@domain,12345,2023/09/21,10/09/2023,PUNE ,,9999999,,,card,N,Electronics
+1054,RAHUL,-5,test@gmail.com,12345,22-02-2023,02-11-2024, mumbai,Maharashtra,500,2,,UPI ,Y, electronics 
+1023,  Amit,200,test@gmail.com,,2024.07.25,2024-12-27, mumbai,,-300,2,10,NetBanking,No,Clothing
+1021,  Amit,25,test@gmail.com,99999abc,2024-09-11,2023-08-17,Chennai,Maharashtra,9999999,10,5,Cash,,
+1068,  Amit,25,,99999abc,05-01-2023,2024/10/06,Delhi,Tamil Nadu,9999999,5,110,,,Clothing
+1055,RAHUL,-5,abc@,99999abc,13-04-2023,2024.07.19, mumbai,Maharashtra,100,1,5,UPI ,,Clothing
+1032,RAHUL,35,test@gmail.com,,15-07-2023,19-09-2024,,Delhi,500,1,,Cash,,
+1035,Anita,200,test@gmail.com,12345,12/16/2023,07/27/2024,Delhi,Delhi,9999999,-1,5,NetBanking,Yes, electronics 
+1019,sara ,30,test@gmail.com,99999abc,2023/02/16,2023-06-25,Delhi,Tamil Nadu,,-1,110,UPI ,Yes,Clothing
+1082,Anita,-5,abc@,99999abc,2024-10-17,2023/09/11,PUNE ,Maharashtra,9999999,10,5,Cash,N,Grocery
+1098,sara ,30,,9876543210,2023/09/26,2024/04/25, mumbai,Tamil Nadu,-300,1,5,UPI ,,Clothing
+1080,RAHUL,-5,user@domain,99999abc,2024-01-05,08/30/2024,PUNE ,Delhi,100,10,5,Cash,No,
+1061,RAHUL,35,,12345,27-09-2024,04/19/2023, mumbai,,1000,5,5,Cash,N,Electronics
+1097,Anita,35,test@gmail.com,12345,2023-04-16,2023-09-04,Chennai,Tamil Nadu,100,2,0,NetBanking,,Clothing
+1072,,35,,9876543210,2024-10-31,2024-10-31,PUNE ,,1000,1,,,Yes, electronics 
+1025,Anita,,,99999abc,20-10-2024,2023-12-16,PUNE ,,500,,110,NetBanking,No,Grocery
+1065,sara ,35,user@domain,99999abc,2024/10/18,02/27/2023,,Maharashtra,500,5,,Cash,N,Grocery
+1072,Anita,25,abc@,99999abc,2023/04/30,26-02-2024,PUNE ,Tamil Nadu,9999999,1,0,UPI ,No,Electronics
+1072,  Amit,25,abc@,,2024.08.26,17-10-2024, mumbai,,,,0,NetBanking,,Electronics
+1039,sara ,,,99999abc,02/27/2023,2024/05/10,,,500,-1,0,,Y,Clothing
+1016,sara ,200,,12345,12-12-2023,2023.12.10,PUNE ,Maharashtra,9999999,10,0,Cash,No,
+1000,,30,abc@,12345,2024/04/18,04-02-2023,PUNE ,Maharashtra,100,-1,5,NetBanking,No, electronics 
+1088,RAHUL,-5,abc@,,2023-04-27,2024.09.11,Chennai,Delhi,500,2,,NetBanking,Yes,Grocery
+1060,sara ,-5,user@domain,,2023/05/07,06/10/2023,PUNE ,,100,-1,10,NetBanking,,Electronics
+1042,RAHUL,,test@gmail.com,99999abc,2024.01.28,2023/05/15,Delhi,Delhi,100,1,110,NetBanking,No, electronics 
+1041,Anita,25,,9876543210,2024.10.02,2023/04/30,,,,,0,UPI ,,
+1024,  Amit,-5,abc@,,02/27/2023,2023.02.27,Delhi,Delhi,500,-1,,,Yes,Grocery
+1038,,25,,,2024/09/25,2023/05/11,,Maharashtra,100,1,0,,,Grocery
+1034,RAHUL,200,,99999abc,2024.05.27,2024/06/17,Chennai,Tamil Nadu,,2,0,Cash,Yes,
+1002,sara ,30,abc@,99999abc,2023-04-06,09/25/2024,PUNE ,Maharashtra,,,0,card,Yes,Grocery
+,RAHUL,200,user@domain,,29-09-2024,2023.01.28,PUNE ,Delhi,500,-1,0,UPI ,N,
+1043,sara ,,,9876543210,2023.04.28,2023.08.19,PUNE ,Delhi,,10,0,Cash,,Grocery
+1050,RAHUL,35,user@domain,,13-07-2024,14-09-2024,,Tamil Nadu,500,10,110,Cash,Y,Clothing
+1093,sara ,35,abc@,99999abc,2024-08-23,30-12-2024,PUNE ,,500,,,NetBanking,N,
+1097,Anita,35,test@gmail.com,99999abc,2024-05-02,2023/03/16,Delhi,Delhi,1000,10,0,card,Yes, electronics 
+1011,sara ,200,test@gmail.com,,25-08-2023,2023.04.06,PUNE ,Delhi,100,-1,0,card,Y,Clothing
+1018,sara ,-5,,9876543210,2023.09.29,2024.01.27,Chennai,Delhi,-300,-1,0,UPI ,No, electronics 
+,  Amit,30,abc@,,07/08/2023,2024.07.01,Delhi,Tamil Nadu,500,,0,card,No,Grocery
+1043,sara ,35,user@domain,,2024.12.04,2023.10.30,PUNE ,Maharashtra,100,-1,5,Cash,N, electronics 
+1058,  Amit,,,99999abc,2024.03.22,01/22/2023,PUNE ,Delhi,,1,5,card,Y,Clothing
+1048,,,abc@,9876543210,03-08-2024,2023.05.11, mumbai,Tamil Nadu,9999999,2,10,card,,
+1060,  Amit,35,abc@,12345,2023-09-04,26-02-2024,,Delhi,500,10,0,,Y,Electronics
+1016,Anita,35,user@domain,9876543210,03/17/2023,23-07-2023,Delhi,,,1,10,Cash,N, electronics 
+1073,  Amit,30,,,2023.06.03,2023-02-28, mumbai,Tamil Nadu,,,110,card,,Electronics
+1056,,35,abc@,,17-10-2024,2024/05/19,Chennai,Delhi,,10,10,card,, electronics 
+1054,Anita,30,abc@,,2024-03-10,2023/09/26,,Tamil Nadu,,1,,NetBanking,No, electronics 
+1046,RAHUL,,abc@,9876543210,03/27/2023,2023/03/02,Delhi,Delhi,,-1,5,card,Y,
+1011,RAHUL,35,user@domain,99999abc,2024/11/27,2023.12.29,PUNE ,Maharashtra,500,,5,card,,Grocery
+1061,  Amit,200,,,2023/10/12,05/10/2023,Delhi,Delhi,-300,,0,,N,Clothing
+1079,  Amit,200,,,2023-08-08,2023.10.30,PUNE ,Tamil Nadu,1000,10,0,Cash,No,Clothing
+1087,,,,9876543210,2023-03-10,2024.12.29,,,,-1,110,UPI ,,Clothing
+1082,,30,,12345,2023/02/16,29-10-2024,PUNE ,,,10,110,Cash,Y,Grocery
+1007,sara ,200,test@gmail.com,12345,2023.04.04,2023-02-09,Chennai,,1000,5,,NetBanking,No,Electronics
+1094,,30,test@gmail.com,99999abc,2024.03.28,07/19/2024,PUNE ,Delhi,500,1,0,Cash,Y,Clothing
+1020,sara ,200,,99999abc,23-07-2023,2024.03.12,Chennai,Maharashtra,100,5,0,card,Y,Electronics
+1080,Anita,200,user@domain,,2023.08.06,10/06/2024,,Delhi,9999999,1,110,NetBanking,Y,Grocery
+1086,  Amit,30,test@gmail.com,9876543210,2024/04/18,2024-12-09,,,9999999,2,110,Cash,No,Grocery
+,Anita,-5,abc@,,2024.03.07,2023/04/21,Delhi,Tamil Nadu,100,,110,NetBanking,,
+1079,,200,test@gmail.com,99999abc,2023/12/07,06/08/2024,Chennai,,500,10,5,UPI ,Yes,Clothing
+1069,Anita,35,abc@,9876543210,2024/07/04,2023.05.31,Chennai,Tamil Nadu,9999999,2,10,Cash,,
+1071,Anita,,,9876543210,2024/09/03,2023-02-10, mumbai,Maharashtra,1000,2,10,card,No,Clothing
+1024,Anita,-5,test@gmail.com,99999abc,2023/10/16,05/24/2023, mumbai,Tamil Nadu,100,,0,NetBanking,Yes,Grocery
+1081,,30,user@domain,12345,11-09-2023,10/20/2024, mumbai,Delhi,-300,,5,,Yes,Grocery
+1088,Anita,-5,test@gmail.com,12345,2023/12/23,2024.01.28,PUNE ,Delhi,500,1,110,NetBanking,Yes, electronics 
+1011,sara ,25,test@gmail.com,9876543210,2023-01-23,2024.02.11, mumbai,Delhi,100,5,0,,N, electronics 
+1014,,25,test@gmail.com,,2024-06-05,02-05-2023,Chennai,Tamil Nadu,9999999,-1,5,card,No,Grocery
+1058,Anita,200,,12345,2023.04.10,2024/08/09,PUNE ,Delhi,500,1,,UPI ,N,Grocery
+1025,,200,user@domain,,29-06-2023,20-05-2024,,Delhi,1000,-1,5,,Yes,Electronics
+1025,RAHUL,35,test@gmail.com,12345,11-08-2023,2023-10-01,Delhi,Delhi,500,2,0,UPI ,N,Electronics
+1046,sara ,,user@domain,12345,2024.10.20,2023.09.06, mumbai,Maharashtra,500,-1,10,NetBanking,N,
+1031,Anita,-5,,,03/17/2024,05/13/2024,,Tamil Nadu,1000,5,110,card,No, electronics 
+1009,RAHUL,25,abc@,99999abc,08/30/2024,14-04-2024,Chennai,Tamil Nadu,,1,,,Y, electronics 
+1015,RAHUL,200,test@gmail.com,12345,11/21/2023,2023/02/25,Delhi,,1000,,5,NetBanking,N,Grocery
+1070,,,user@domain,12345,30-05-2024,05/06/2023,,Tamil Nadu,500,5,0,Cash,N,Grocery
+1016,RAHUL,-5,user@domain,,2023/01/16,11/23/2024,Delhi,Maharashtra,1000,5,0,NetBanking,Yes,
+1022,sara ,200,,99999abc,2023/12/02,21-08-2023, mumbai,Tamil Nadu,,1,110,UPI ,Yes, electronics 
+1025,sara ,200,test@gmail.com,12345,2023-09-15,09-04-2023,Chennai,Maharashtra,100,,0,card,Yes,Electronics
+1084,  Amit,25,abc@,12345,11-05-2024,2024-04-12,Delhi,Maharashtra,1000,5,0,card,,Clothing
+1085,sara ,25,user@domain,99999abc,2023/06/09,26-08-2024,,Tamil Nadu,1000,,110,NetBanking,N,
+1006,RAHUL,200,test@gmail.com,12345,04/19/2024,2024.11.20, mumbai,,500,10,,Cash,Yes,Clothing
+1013,sara ,30,abc@,99999abc,10/25/2024,2023.12.04, mumbai,Delhi,100,10,10,UPI ,No,Electronics
+1078,,200,user@domain,99999abc,11/20/2024,22-03-2023,,Delhi,-300,10,10,NetBanking,,Electronics
+1006,  Amit,,user@domain,,11/05/2024,05-07-2023,,Tamil Nadu,-300,-1,5,NetBanking,Y,Clothing
+1008,RAHUL,200,abc@,9876543210,2024-01-15,2024-06-29,Delhi,Tamil Nadu,9999999,5,,card,N,
+1047,  Amit,35,abc@,99999abc,28-06-2024,2023-01-01,PUNE ,Maharashtra,1000,1,5,UPI ,N,Clothing
+1071,RAHUL,35,,,2024-11-21,2024/05/10, mumbai,Tamil Nadu,1000,1,10,Cash,No,
+1058,,35,test@gmail.com,9876543210,02-03-2024,17-06-2023,Delhi,Maharashtra,100,-1,110,card,Y,
+1086,  Amit,30,test@gmail.com,12345,2024/09/04,2024/05/17,,,,1,0,NetBanking,Y,Grocery
+1092,Anita,30,,9876543210,2023-09-25,2024/04/28,Delhi,Tamil Nadu,-300,10,10,card,, electronics 
+1081,RAHUL,200,user@domain,99999abc,07/30/2024,2024.04.29,,Delhi,9999999,5,,card,N, electronics 
+1094,Anita,35,abc@,99999abc,21-02-2024,30-05-2024,Chennai,Delhi,100,1,10,,Yes,Electronics
+1093,  Amit,30,abc@,99999abc,2023-06-17,2023/10/16,,Tamil Nadu,1000,1,,card,No,Grocery
+1038,Anita,25,abc@,99999abc,12-02-2023,2024-07-31,,Maharashtra,-300,2,,card,No, electronics 
+1098,Anita,200,user@domain,99999abc,2024-07-09,11/12/2024,,Delhi,9999999,2,,UPI ,No,
+1017,  Amit,,abc@,,10/12/2023,2024.10.07,PUNE ,Maharashtra,500,2,5,card,No,
+1058,,-5,abc@,99999abc,2024-02-01,2024.01.28,,Tamil Nadu,-300,5,110,Cash,Yes,Clothing
+1016,Anita,200,,,2023.01.12,2023/08/02, mumbai,Tamil Nadu,9999999,10,10,NetBanking,Yes,Clothing
+1013,Anita,-5,user@domain,12345,2024.08.29,2023-08-13, mumbai,Delhi,100,,110,UPI ,,
+1030,,35,test@gmail.com,99999abc,10/29/2023,2024-03-19,Delhi,Tamil Nadu,500,10,0,card,N,
+1023,Anita,-5,,99999abc,10-09-2023,18-02-2023,PUNE ,,9999999,10,10,Cash,Yes,Clothing
+1098,Anita,35,,9876543210,05/13/2024,17-06-2023,Delhi,,9999999,5,110,NetBanking,, electronics 
+1059,Anita,25,test@gmail.com,12345,04-02-2023,16-09-2023, mumbai,Delhi,1000,5,110,UPI ,Y,Electronics
+1044,sara ,-5,,99999abc,27-12-2024,2024/08/09, mumbai,,,2,0,Cash,N,Clothing
+1097,,200,user@domain,99999abc,2023/03/31,05-01-2023,Chennai,Maharashtra,-300,1,,card,Yes, electronics 
+1002,Anita,35,abc@,12345,2024-08-27,11/14/2023,,Delhi,1000,-1,10,,Y, electronics 
+1036,,200,user@domain,,24-08-2024,2023-01-03, mumbai,Delhi,500,-1,10,,, electronics 
+1042,RAHUL,30,test@gmail.com,99999abc,2024/02/22,2023-07-26,Delhi,Maharashtra,,,0,UPI ,Yes,Grocery
+1039,RAHUL,35,test@gmail.com,9876543210,2023/04/25,2024/09/04,Delhi,,9999999,1,,Cash,Yes,Grocery
+1089,Anita,-5,,99999abc,09/08/2024,11/02/2024,,,1000,,10,NetBanking,Y, electronics 
+1054,,35,user@domain,9876543210,2023-07-15,2024-11-18,,,,2,10,Cash,Yes,
+1086,,200,user@domain,9876543210,2024/05/15,03-07-2024,Chennai,Delhi,-300,,10,,No,Grocery
+1038,,25,test@gmail.com,99999abc,17-09-2024,10-03-2024,PUNE ,Delhi,500,1,,UPI ,Yes,Clothing
+1014,sara ,35,user@domain,99999abc,2024.05.07,2024-09-16,Delhi,,100,1,0,card,N,Grocery
+1003,RAHUL,-5,test@gmail.com,9876543210,16-03-2023,29-08-2023,,Tamil Nadu,1000,-1,10,Cash,Y,
+1092,,30,user@domain,12345,02/17/2024,2023-04-10,Delhi,,500,2,110,,N,Electronics
+1085,,,user@domain,12345,2024/01/11,06/12/2023,,Maharashtra,100,5,,NetBanking,,Grocery
+1024,sara ,25,user@domain,99999abc,2024-02-24,15-07-2023, mumbai,Delhi,1000,,5,UPI ,N, electronics 
+1012,sara ,30,test@gmail.com,,2024.12.29,04/08/2024,Delhi,Maharashtra,500,-1,0,card,No, electronics 
+1081,,35,,12345,2023/10/04,2023/11/16, mumbai,Maharashtra,500,,110,Cash,No, electronics 
+1032,  Amit,200,user@domain,99999abc,11/06/2024,13-05-2024,Delhi,Delhi,,,10,NetBanking,N,Electronics
+1015,,200,test@gmail.com,12345,2024-01-29,2024.12.25,PUNE ,Tamil Nadu,1000,5,5,card,,
+1041,,-5,test@gmail.com,,2024.04.01,2024.06.30,Chennai,,500,2,0,,Yes,Clothing
+1065,sara ,200,user@domain,99999abc,07/11/2023,02-08-2024, mumbai,Maharashtra,9999999,1,,,No,
+1054,sara ,25,user@domain,,11/19/2024,05/22/2024,,Delhi,1000,10,5,NetBanking,N,Electronics
+1098,,200,,99999abc,04/09/2023,2023.01.17,PUNE ,Maharashtra,500,,5,,N, electronics 
+1041,,-5,test@gmail.com,,07/01/2024,2023-04-17,Delhi,,,10,110,UPI ,N,
+1033,,,test@gmail.com,12345,2023-04-06,10/10/2023, mumbai,Tamil Nadu,100,2,0,NetBanking,Yes,Clothing
+1029,sara ,35,abc@,12345,2024.10.25,2023/12/08,Delhi,Tamil Nadu,100,10,110,,Y, electronics 
+1012,,35,test@gmail.com,,2024.10.24,27-10-2024,Delhi,Tamil Nadu,9999999,,110,Cash,,Clothing
+1012,,200,,,2023/07/09,2024.08.02,Delhi,Delhi,1000,5,10,,Y,Grocery
+1017,Anita,30,abc@,,2023/02/06,2024/01/29,Chennai,Delhi,,10,,UPI ,,Clothing
+1031,  Amit,35,abc@,99999abc,01/04/2024,17-06-2023,Chennai,Tamil Nadu,500,2,5,card,, electronics 
+1095,RAHUL,,abc@,12345,11/25/2024,08-09-2023,,,500,2,0,card,N,Grocery
+1098,  Amit,200,user@domain,99999abc,06/08/2024,2024-11-02, mumbai,,100,5,,,No, electronics 
+1038,Anita,-5,user@domain,12345,06-10-2023,11/22/2023,PUNE ,Delhi,,10,,card,N, electronics 
+1045,RAHUL,,test@gmail.com,9876543210,08/05/2023,2024-06-01,PUNE ,Tamil Nadu,9999999,10,0,,Yes,Grocery
+1028,,200,abc@,99999abc,09/30/2023,2024-10-11,PUNE ,,100,1,,UPI ,,Clothing
+1061,Anita,,,12345,2023-03-03,2024-10-31,Delhi,,100,-1,10,card,No,Electronics
+1092,,35,user@domain,12345,18-08-2024,29-11-2024,Chennai,,9999999,2,,Cash,,Electronics
+1061,sara ,-5,,99999abc,2024/12/29,03-11-2024, mumbai,Delhi,1000,1,10,,,Electronics
+1056,Anita,200,,99999abc,2023/12/08,16-09-2023,Delhi,Tamil Nadu,500,2,5,card,N,Electronics
+1015,sara ,25,user@domain,12345,2024-02-01,2024/05/10,Chennai,Maharashtra,1000,1,5,UPI ,No,
+1055,Anita,-5,user@domain,99999abc,29-11-2024,2024-07-11,Chennai,Tamil Nadu,,-1,110,UPI ,No,Electronics
+1009,Anita,25,user@domain,,2023-01-19,2024-02-12, mumbai,Tamil Nadu,-300,1,10,Cash,,Grocery
+1029,sara ,,user@domain,99999abc,2023.06.26,2024/05/10, mumbai,Delhi,-300,2,5,UPI ,No,Electronics
+1024,RAHUL,30,abc@,99999abc,03-09-2024,10-03-2024, mumbai,,-300,10,,UPI ,No, electronics 
+1083,  Amit,-5,abc@,99999abc,2024.01.31,2023.04.28,Delhi,,9999999,2,0,card,N,Electronics
+1004,,,abc@,12345,03/20/2024,08/15/2024,,Delhi,100,,0,,Y,Clothing
+1064,Anita,25,abc@,,08/21/2023,02/17/2024, mumbai,Delhi,1000,5,10,NetBanking,Yes,Grocery
+1093,,35,test@gmail.com,9876543210,2023/03/17,2023/12/08,,Delhi,500,5,110,UPI ,Y,Grocery
+1048,sara ,35,abc@,9876543210,2023.09.22,11/22/2023,Delhi,Delhi,-300,,,UPI ,No,
+1002,,30,user@domain,,30-03-2024,05/24/2024,,Delhi,1000,5,10,NetBanking,, electronics 
+1044,sara ,-5,,,18-12-2024,07/02/2023,PUNE ,Maharashtra,-300,5,0,UPI ,Yes,Grocery
+1013,,-5,abc@,,19-01-2024,14-12-2023,,Tamil Nadu,-300,-1,10,card,Yes,Clothing
+1029,  Amit,-5,test@gmail.com,12345,2024/07/17,31-08-2024, mumbai,Tamil Nadu,500,10,,card,,Electronics
+1067,  Amit,,user@domain,9876543210,20-05-2024,2023-09-15,Delhi,Tamil Nadu,,10,5,NetBanking,Yes,Grocery
+1017,  Amit,30,,,2024-01-02,08/30/2024, mumbai,,,2,,UPI ,,Clothing
+1061,  Amit,-5,,12345,05/24/2023,11/27/2023,PUNE ,Maharashtra,,,5,UPI ,Yes,Electronics
+1036,  Amit,,abc@,9876543210,2023.03.10,08/30/2024, mumbai,Tamil Nadu,9999999,1,5,,Y,
+1024,  Amit,35,,99999abc,2023.04.09,30-05-2024, mumbai,,100,2,5,UPI ,Yes,Grocery
+1047,sara ,25,abc@,12345,01/31/2024,2023.09.06, mumbai,Maharashtra,9999999,2,10,card,N,Grocery
+1064,Anita,,abc@,9876543210,2023.01.25,29-11-2024,Chennai,Maharashtra,1000,2,0,Cash,,Clothing
+1052,,35,user@domain,12345,2024/04/13,2023/12/25,PUNE ,,9999999,2,10,Cash,Yes, electronics 
+1078,  Amit,35,user@domain,9876543210,2024/04/28,2024/03/16, mumbai,Maharashtra,1000,10,0,Cash,,
+1072,sara ,25,test@gmail.com,9876543210,2024-07-18,10/24/2024, mumbai,,1000,1,,Cash,N, electronics 
+1014,sara ,35,user@domain,99999abc,2023.05.31,04-01-2024, mumbai,Tamil Nadu,100,2,110,UPI ,Yes,Grocery
+1048,sara ,30,user@domain,12345,24-05-2023,2023.08.19,Delhi,,500,10,,UPI ,Yes, electronics 
+1087,Anita,25,abc@,,2024.07.22,2024-11-18,Chennai,Maharashtra,100,2,10,,N,Electronics
+1067,,35,user@domain,99999abc,2023.02.08,2023/01/08,Delhi,Tamil Nadu,,5,10,UPI ,N,
+1011,Anita,200,abc@,99999abc,04/19/2023,01/22/2023,Chennai,Tamil Nadu,,2,0,Cash,N, electronics 
+1058,RAHUL,,abc@,9876543210,11/23/2024,2023-08-23, mumbai,Delhi,9999999,,10,NetBanking,,Electronics
+1036,sara ,35,user@domain,,2023-02-11,2023.11.01,PUNE ,Delhi,1000,,5,NetBanking,N,Clothing
+1060,RAHUL,30,test@gmail.com,12345,05-07-2023,2023-06-15,,Maharashtra,-300,2,10,card,, electronics 
+,  Amit,-5,test@gmail.com,,2024/02/02,2024-03-22,,,-300,-1,0,card,Y,
+1042,  Amit,35,,,11-08-2023,02/10/2023, mumbai,,1000,5,0,UPI ,Yes,Electronics
+1069,Anita,-5,,,25-09-2024,2023-06-25,Delhi,Maharashtra,100,1,5,NetBanking,Yes, electronics 
+1038,,200,user@domain,,05/13/2023,05-02-2024,PUNE ,Tamil Nadu,500,2,0,Cash,No,Clothing
+1055,RAHUL,35,test@gmail.com,,06/12/2023,2024/09/25,Chennai,Maharashtra,100,1,110,Cash,Y, electronics 
+1062,,25,abc@,9876543210,2023/08/03,04/09/2023, mumbai,Maharashtra,1000,5,,Cash,N,Electronics
+1045,Anita,-5,,9876543210,2023-08-23,05/22/2024,PUNE ,Tamil Nadu,1000,2,10,UPI ,N, electronics 
+1087,  Amit,200,abc@,99999abc,2024/10/19,2023-04-09,PUNE ,,500,-1,110,UPI ,Y,
+1010,,25,,9876543210,2024.08.10,2023-02-15,Chennai,Maharashtra,9999999,10,10,,N,Grocery
+1061,,25,user@domain,99999abc,01/09/2023,09/10/2023,PUNE ,,9999999,-1,110,Cash,No,Electronics
+1076,  Amit,25,test@gmail.com,99999abc,2023-03-15,30-09-2024,Delhi,Maharashtra,500,-1,10,Cash,,Electronics
+1097,RAHUL,25,,12345,06-05-2024,2023-03-03,Delhi,Tamil Nadu,9999999,10,5,UPI ,Yes,Electronics
+1024,  Amit,35,test@gmail.com,,09/10/2023,2024/12/20,Delhi,Tamil Nadu,-300,10,0,UPI ,Y,Electronics
+1070,,,abc@,9876543210,2023-08-18,05-01-2023,PUNE ,Delhi,9999999,,0,,Yes, electronics 
+1051,RAHUL,35,user@domain,12345,02-06-2024,2023.12.15,Delhi,Tamil Nadu,9999999,10,5,,,
+1003,RAHUL,35,test@gmail.com,9876543210,06/23/2023,2023.08.30,Chennai,Delhi,9999999,2,110,card,Y,Clothing
+1058,  Amit,200,user@domain,99999abc,2024.10.14,07/17/2023,PUNE ,Maharashtra,-300,1,,NetBanking,,
+1071,,200,test@gmail.com,9876543210,17-06-2023,2024.12.29,,,9999999,,110,Cash,N,Electronics
+1019,Anita,,abc@,,2023-06-19,2024-02-15,PUNE ,Tamil Nadu,,,0,Cash,N, electronics 
+1092,,200,abc@,99999abc,01/28/2024,2023/02/16,Chennai,Tamil Nadu,-300,1,,,N, electronics 
+1062,sara ,30,user@domain,99999abc,25-09-2024,2023.03.19,,Tamil Nadu,500,,10,,,Electronics
+1053,Anita,,abc@,12345,2023-07-13,09/13/2023,PUNE ,Maharashtra,100,10,,card,, electronics 
+1073,RAHUL,200,,,2024-05-31,2023.06.01,Delhi,Delhi,500,-1,110,NetBanking,,Electronics
+1097,Anita,,test@gmail.com,99999abc,2023/01/29,09/30/2023, mumbai,Maharashtra,100,5,5,card,Yes,
+1056,RAHUL,35,abc@,,06/14/2023,2024.05.30, mumbai,,500,10,10,NetBanking,,Grocery
+1089,RAHUL,35,,9876543210,2024-02-26,07/27/2024,Delhi,Maharashtra,,-1,110,Cash,N, electronics 
+1040,Anita,,user@domain,,2023/12/05,2024-11-12, mumbai,,100,-1,10,card,No,Electronics
+1002,RAHUL,30,,99999abc,2024/10/09,2024.03.07, mumbai,Tamil Nadu,100,,,,,Electronics
+1005,RAHUL,30,user@domain,12345,2024/05/10,06-05-2024,Delhi,,1000,2,0,card,No, electronics 
+1004,sara ,,user@domain,99999abc,31-12-2023,2023-02-07,Delhi,,100,2,110,card,N,Clothing
+1004,,200,test@gmail.com,,12/08/2023,11/27/2023,PUNE ,Delhi,100,,5,Cash,,Electronics
+1053,,-5,test@gmail.com,,2024-05-14,12/16/2023,PUNE ,,1000,,,,Yes, electronics 
+1046,sara ,30,,99999abc,18-10-2024,2024-04-21,Delhi,,9999999,1,110,,Yes,Electronics
+1086,Anita,25,test@gmail.com,,05/25/2024,2023-02-11,Chennai,Maharashtra,9999999,1,5,UPI ,No,Clothing
+1048,  Amit,35,test@gmail.com,9876543210,2023/11/23,17-02-2023, mumbai,Tamil Nadu,1000,5,110,UPI ,Yes,Grocery
+1008,  Amit,,test@gmail.com,99999abc,05-08-2023,03/17/2024,PUNE ,Maharashtra,-300,5,,UPI ,Yes,Clothing
+1098,  Amit,25,,12345,28-10-2023,24-08-2024, mumbai,Maharashtra,100,5,110,Cash,Yes,
+1019,sara ,,abc@,99999abc,2023-05-12,2024-09-16,,Tamil Nadu,100,5,10,card,N, electronics 
+1060,sara ,35,test@gmail.com,9876543210,2023.03.11,2023-09-25,Delhi,Tamil Nadu,1000,-1,,,Yes,Clothing
+1034,RAHUL,35,test@gmail.com,9876543210,09/09/2023,2024-05-25,Chennai,,1000,-1,110,,Y,Grocery
+1049,  Amit,30,,9876543210,02/19/2024,2023/01/12,,,-300,1,0,card,,Electronics
+1081,Anita,30,abc@,9876543210,20-03-2024,04-12-2024,,Delhi,,2,110,,Yes, electronics 
+1061,Anita,25,test@gmail.com,9876543210,01-07-2023,2023.07.09,,Maharashtra,9999999,,10,card,Yes,Clothing
+1016,  Amit,,user@domain,12345,2023/06/16,2024/01/02,Delhi,Tamil Nadu,500,2,5,Cash,Yes,Grocery
+1087,  Amit,35,,,2023/04/01,2023.01.25,PUNE ,,,10,5,Cash,Y,Clothing
+1002,  Amit,25,test@gmail.com,9876543210,12/14/2024,2024-10-31,Delhi,Tamil Nadu,9999999,-1,5,Cash,Yes,
+1031,sara ,-5,test@gmail.com,9876543210,06/14/2024,2024.08.26,PUNE ,,100,5,0,card,Yes, electronics 
+1098,sara ,25,user@domain,99999abc,2023/02/08,06/14/2024,,Delhi,,5,10,card,,Electronics
+1012,sara ,200,user@domain,12345,05/06/2023,02/16/2023,,Delhi,1000,10,,NetBanking,Y,Grocery
+1088,,25,,12345,26-03-2024,11/10/2023,Chennai,Tamil Nadu,-300,2,5,,Y,Clothing
+1072,Anita,200,,,22-06-2023,2024/09/04,PUNE ,Delhi,9999999,5,10,,Yes, electronics 
+1067,Anita,200,user@domain,12345,10/14/2024,2024-02-12,,Tamil Nadu,-300,2,110,NetBanking,Y,Clothing
+1013,RAHUL,200,,99999abc,2023/08/08,2023-08-15, mumbai,,9999999,,0,NetBanking,No, electronics 
+,sara ,-5,user@domain,99999abc,2024.09.29,18-12-2024,Chennai,Maharashtra,,10,10,Cash,Y,
+1097,,25,test@gmail.com,,2023-02-27,2023/06/11,Delhi,Delhi,100,2,10,NetBanking,Y,Clothing
+1010,,25,user@domain,99999abc,2024-10-21,11/02/2024,Chennai,,500,,,card,Y,
+1055,Anita,-5,user@domain,9876543210,04/20/2024,2023/04/30, mumbai,Maharashtra,-300,2,10,UPI ,N,Grocery
+1066,sara ,35,abc@,9876543210,31-03-2024,2024/05/15,PUNE ,Maharashtra,-300,2,,card,N,
+1091,RAHUL,30,user@domain,99999abc,2023/12/27,2023/04/25,Delhi,Maharashtra,500,5,0,NetBanking,N, electronics 
+1028,sara ,25,user@domain,,2023-01-01,2023/01/29,Delhi,,-300,1,0,,Y,Grocery
+1008,  Amit,30,abc@,12345,2024.01.22,2024/11/29,PUNE ,,-300,-1,110,card,No,Clothing
+1066,sara ,,,,12/14/2023,26-05-2024,Chennai,Tamil Nadu,9999999,2,,,Y,Clothing
+1024,  Amit,,abc@,12345,07/09/2023,2024.12.28,,Maharashtra,9999999,2,,card,Yes, electronics 
+1097,  Amit,-5,test@gmail.com,99999abc,2024/05/19,12/26/2024,Chennai,Maharashtra,500,2,5,,No,Electronics
+1075,RAHUL,,abc@,99999abc,2023.07.10,2023.07.27, mumbai,Maharashtra,100,1,5,card,N,Electronics
+1041,Anita,,test@gmail.com,9876543210,2024.05.22,2023/02/03,,Tamil Nadu,,,110,,,Clothing
+1008,sara ,35,,12345,04-01-2024,2023-01-25,Chennai,Maharashtra,,10,0,UPI ,No, electronics 
+1078,  Amit,35,abc@,,13-02-2024,18-10-2024,PUNE ,,-300,5,5,Cash,N,Electronics
+1039,sara ,35,abc@,99999abc,2023-04-27,29-06-2024, mumbai,Maharashtra,100,1,10,card,No,
+1024,Anita,,,,14-05-2023,2024.09.30, mumbai,Delhi,500,,0,UPI ,No,Clothing
+1004,Anita,-5,test@gmail.com,9876543210,2023.02.27,2023-04-27, mumbai,,500,2,10,Cash,Y,
+1010,,200,abc@,12345,2024.07.09,2023-08-27,,Tamil Nadu,9999999,,,card,Yes, electronics 
+1058,Anita,200,test@gmail.com,12345,11/15/2024,2023/08/21,Delhi,Maharashtra,-300,1,0,UPI ,,
+1097,RAHUL,30,abc@,99999abc,02-11-2024,2024-03-16,,Delhi,1000,1,110,UPI ,N,Electronics
+1087,  Amit,200,user@domain,12345,2023.06.22,2024.12.26,Chennai,Tamil Nadu,500,1,,UPI ,No,Electronics
+1078,,200,abc@,99999abc,29-05-2023,2024-10-01,Delhi,Tamil Nadu,-300,10,,NetBanking,,Grocery
+1037,RAHUL,35,,9876543210,2023-03-21,2023.10.11,Chennai,,100,-1,10,,No,Clothing
+1071,sara ,35,,12345,2023-08-01,2024/10/16,Delhi,Tamil Nadu,9999999,5,,Cash,Yes, electronics 
+1004,  Amit,,test@gmail.com,99999abc,2023/07/22,07/08/2023,,Tamil Nadu,,10,5,,,Clothing
+1047,Anita,30,abc@,,2023/08/17,2024/11/12, mumbai,Tamil Nadu,100,10,0,,N,
+1089,  Amit,25,test@gmail.com,99999abc,2024-11-06,09/16/2023,PUNE ,Tamil Nadu,500,-1,5,,No, electronics 
+1017,sara ,30,test@gmail.com,12345,2023-08-15,2024-09-11, mumbai,Maharashtra,500,10,10,UPI ,Yes, electronics 
+1069,,30,user@domain,9876543210,2024.10.20,2024.05.06,,Maharashtra,100,1,10,,,Electronics
+1036,,-5,user@domain,12345,06/15/2024,2024/01/22,Delhi,Maharashtra,500,1,0,NetBanking,No,
+1059,,,,12345,2024-03-16,26-03-2024, mumbai,Maharashtra,-300,,,card,No,Electronics
+1047,Anita,-5,test@gmail.com,99999abc,2024.02.06,12/30/2024,,Delhi,500,2,110,UPI ,N,Electronics
+1076,RAHUL,30,,,02/16/2023,07-10-2024,Chennai,Maharashtra,9999999,10,10,Cash,Yes,Grocery
+1027,RAHUL,30,abc@,12345,21-08-2023,2024.08.29,PUNE ,Tamil Nadu,-300,2,0,card,Y,Electronics
+1068,  Amit,30,test@gmail.com,,2023.11.01,2023/05/07, mumbai,Maharashtra,1000,5,110,card,No,Clothing
+1076,Anita,200,test@gmail.com,99999abc,09-06-2024,2023-06-26,Delhi,Maharashtra,500,1,,card,, electronics 
+1080,,-5,abc@,,2023.05.23,02/10/2023,Chennai,,500,,10,,N,Electronics
+1039,,30,abc@,99999abc,2024.02.19,11-11-2023,,Tamil Nadu,9999999,5,0,,N,Clothing
+1044,sara ,35,,9876543210,2024-05-27,21-03-2024,PUNE ,Maharashtra,9999999,,0,UPI ,No,
+1095,sara ,,,,08-01-2024,2023.01.28,Delhi,Maharashtra,,-1,0,,No, electronics 
+1061,,,abc@,,2024-07-19,2024.02.11,,Maharashtra,100,1,10,,No,
+1092,,35,,9876543210,09/16/2023,16-03-2023,,Delhi,100,5,110,,Y,Clothing
+1057,Anita,,abc@,,2024.10.17,2023-08-15, mumbai,Maharashtra,100,-1,0,UPI ,No,
+1066,RAHUL,200,test@gmail.com,9876543210,2024.04.15,08/30/2024, mumbai,,9999999,5,,UPI ,Yes,
+1055,sara ,200,test@gmail.com,12345,2023/01/12,02-11-2024,Delhi,Tamil Nadu,100,,0,NetBanking,,
+1039,RAHUL,25,user@domain,99999abc,11/26/2023,2023/12/23,,Tamil Nadu,100,-1,110,NetBanking,No,Electronics
+1097,Anita,25,test@gmail.com,9876543210,2023.12.24,01/21/2024, mumbai,Maharashtra,1000,-1,10,NetBanking,Y,Electronics
+1039,,25,abc@,,02/12/2024,2024-02-11,PUNE ,Maharashtra,100,1,0,NetBanking,,Electronics
+1090,RAHUL,,,9876543210,29-10-2024,2024-12-27,PUNE ,Maharashtra,500,2,0,card,N, electronics 
+1076,,200,user@domain,,2024/01/08,2024.10.09,,Tamil Nadu,,,,card,No,Clothing
+1032,,200,,12345,2023/01/08,2024.01.27, mumbai,Tamil Nadu,9999999,,,NetBanking,,Electronics
+1005,  Amit,200,abc@,9876543210,02-05-2023,25-08-2023,Delhi,Delhi,-300,-1,0,NetBanking,N,
+1087,RAHUL,35,test@gmail.com,12345,2023.12.14,2024.07.09,Delhi,,,-1,0,Cash,Y,
+1018,RAHUL,200,user@domain,99999abc,2024.11.06,2024-04-16,Delhi,Delhi,1000,1,,card,Yes,
+1079,,35,abc@,,2023-03-31,04/01/2024,PUNE ,,9999999,2,110,Cash,No,
+1039,Anita,25,user@domain,,2024.10.09,2024-03-10, mumbai,Delhi,9999999,,5,Cash,Yes,Grocery
+1091,  Amit,25,user@domain,12345,11/28/2024,2024-12-09, mumbai,Tamil Nadu,500,10,5,,Y, electronics 
+1096,,,test@gmail.com,99999abc,2023/11/12,18-09-2023,PUNE ,Delhi,,10,0,UPI ,,Clothing
+1058,sara ,25,abc@,9876543210,06/27/2023,03/25/2024,Delhi,,,2,,card,,Clothing
+1058,sara ,,,9876543210,2024-06-23,2024/04/05,Delhi,Maharashtra,100,5,10,NetBanking,Y,Electronics
+1047,  Amit,30,user@domain,,2023/02/10,15-04-2024,,,500,1,10,NetBanking,Y,Grocery
+1040,Anita,30,user@domain,12345,12/04/2024,05/26/2023,Chennai,Maharashtra,100,2,5,UPI ,No,Clothing
+1012,,-5,,12345,2024/05/16,30-06-2024, mumbai,Tamil Nadu,100,10,110,card,N, electronics 
+1044,RAHUL,,abc@,9876543210,2023.05.25,01/09/2023, mumbai,,9999999,-1,5,NetBanking,Yes,
+1088,  Amit,-5,user@domain,99999abc,2023.07.20,2024.11.21, mumbai,Delhi,,10,0,NetBanking,Yes,Electronics
+1052,Anita,-5,user@domain,99999abc,2024-12-24,04/04/2024,Chennai,,100,-1,110,,, electronics 
+1041,RAHUL,30,user@domain,9876543210,2024/04/05,2024-07-11,,Maharashtra,1000,1,10,Cash,,Clothing
+1099,sara ,,abc@,9876543210,2024-07-11,2024-02-01,Chennai,Tamil Nadu,1000,-1,,NetBanking,No,Grocery
+1062,sara ,30,abc@,12345,2024.06.30,04/16/2023,Delhi,Delhi,,2,,card,Y,Electronics
+1026,RAHUL,-5,,99999abc,2023/09/10,2024/05/15,Delhi,,1000,-1,0,UPI ,Yes,Clothing
+1037,  Amit,,abc@,9876543210,2024/01/25,2024/12/29, mumbai,Maharashtra,9999999,5,5,,No,Electronics
+1059,sara ,-5,abc@,9876543210,08/16/2024,02/20/2023,PUNE ,Delhi,500,2,0,card,,Clothing
+1006,,200,test@gmail.com,,2023/09/13,2024.02.19, mumbai,Tamil Nadu,-300,1,,,,
+1004,RAHUL,,,9876543210,2024-12-09,01/27/2024,PUNE ,Delhi,100,2,10,Cash,Yes,Grocery
+1044,RAHUL,,user@domain,9876543210,03/25/2024,2023/06/09,Chennai,Tamil Nadu,-300,5,,NetBanking,,
+1057,sara ,-5,abc@,99999abc,2023/01/10,2024/12/29,Delhi,Delhi,500,1,110,card,,Clothing
+1030,  Amit,200,user@domain,12345,2023.08.30,25-09-2024,PUNE ,,500,10,,UPI ,N, electronics 
+1022,,35,user@domain,99999abc,08-09-2023,11/02/2023,Chennai,Maharashtra,9999999,5,,Cash,Y,
+1041,  Amit,30,test@gmail.com,12345,05-01-2023,27-01-2024,Delhi,,1000,1,110,Cash,, electronics 
+1009,Anita,-5,abc@,,2023-04-29,2023.09.06,PUNE ,,1000,-1,5,,N,Clothing
+1031,Anita,,,9876543210,2024.01.09,15-10-2023, mumbai,Tamil Nadu,500,2,,Cash,No,Grocery
+1052,sara ,30,abc@,,06-03-2023,2023/02/25, mumbai,Tamil Nadu,9999999,1,0,card,, electronics 
+1029,sara ,30,user@domain,12345,05/26/2023,2023/12/05, mumbai,Tamil Nadu,9999999,2,,,No,Clothing
+1038,sara ,30,,99999abc,2023/08/12,2023/06/03,Chennai,,,-1,0,Cash,, electronics 
+1030,Anita,35,abc@,99999abc,2023-08-27,11-07-2023, mumbai,Delhi,100,1,110,UPI ,Yes,
+1081,  Amit,25,user@domain,,2023-06-26,2024/01/22,,Delhi,1000,10,,card,N,Clothing
+1099,  Amit,-5,user@domain,12345,10/09/2023,19-03-2023,Delhi,,500,5,110,UPI ,N,
+1001,sara ,25,test@gmail.com,,2023-03-04,09/01/2023,Chennai,,,1,110,UPI ,Yes,Electronics
+1077,,25,test@gmail.com,,08/05/2023,09/10/2023, mumbai,Maharashtra,-300,-1,5,,Y,Clothing
+1076,  Amit,25,test@gmail.com,9876543210,2024-11-19,04/08/2024,Delhi,Tamil Nadu,1000,1,,NetBanking,N, electronics 
+1092,Anita,30,user@domain,,05-04-2024,2024.09.19,PUNE ,Tamil Nadu,100,2,0,,No,Electronics
+1011,RAHUL,200,abc@,9876543210,2024/09/01,30-06-2023, mumbai,,9999999,,0,card,N,
+1038,RAHUL,30,test@gmail.com,9876543210,2023/04/15,10-03-2024,Delhi,,500,1,,card,Y,
+1065,RAHUL,30,abc@,99999abc,2023-04-09,2024/07/04,,Delhi,1000,10,5,,No, electronics 
+1095,,,test@gmail.com,9876543210,2024-05-25,06-04-2024,PUNE ,,-300,1,5,NetBanking,No,Electronics
+1012,sara ,,,9876543210,01/20/2024,11/05/2024,,Delhi,100,5,5,,Yes,Grocery
+1045,Anita,25,,99999abc,2024.02.09,2024.07.01,Delhi,,100,1,0,card,, electronics 
+1026,,30,test@gmail.com,,2024/06/01,08/22/2023,,Maharashtra,,,110,NetBanking,Yes,
+1016,Anita,25,user@domain,12345,2024.04.20,11/16/2023,Delhi,Maharashtra,1000,2,5,card,,Clothing
+1094,Anita,,test@gmail.com,12345,2024-12-09,04/16/2023,Delhi,Delhi,-300,1,0,NetBanking,Yes,Electronics
+1097,sara ,200,test@gmail.com,12345,2024-10-06,04-08-2024,,Tamil Nadu,100,10,0,NetBanking,,Grocery
+1059,RAHUL,-5,user@domain,,2024/03/12,08-03-2023,Delhi,Maharashtra,500,-1,110,,N,Clothing
+1063,sara ,25,,9876543210,2023.01.23,2023-05-27, mumbai,Delhi,100,1,,,No,Electronics
+1087,,200,abc@,12345,18-07-2024,2024.01.09,Delhi,,-300,1,,,, electronics 
+1034,,-5,test@gmail.com,,2024.11.07,2024/02/26,Chennai,,9999999,5,5,NetBanking,N, electronics 
+1069,,35,user@domain,9876543210,12/14/2024,2024-10-21,Delhi,Delhi,9999999,10,5,NetBanking,Y,Electronics
+1082,sara ,25,test@gmail.com,99999abc,02-04-2024,03/17/2024,Chennai,Tamil Nadu,,,110,card,Yes,Grocery
+1029,Anita,25,user@domain,12345,24-03-2023,2024/04/25,Delhi,Delhi,1000,-1,5,UPI ,Y,Electronics
+1070,Anita,35,abc@,9876543210,2023/05/25,2024/03/13,Delhi,Delhi,-300,2,110,,N,Clothing
+1073,  Amit,35,abc@,12345,03/26/2023,10/12/2023,,Maharashtra,,1,0,card,Y,Clothing
+1095,,25,,12345,2023.03.19,07/23/2024, mumbai,Delhi,100,,5,card,Y, electronics 
+1097,Anita,35,user@domain,12345,04/01/2024,17-06-2023, mumbai,Delhi,100,-1,0,Cash,N,Electronics
+1062,  Amit,30,user@domain,9876543210,2023/01/01,04/08/2023,PUNE ,,9999999,2,10,,No, electronics 
+1027,Anita,-5,,,20-02-2023,2024/03/16,,Maharashtra,,,110,card,,Grocery
+1059,,-5,,9876543210,15-11-2024,21-03-2024,,,9999999,10,10,Cash,Yes,Clothing
+1078,RAHUL,-5,user@domain,12345,2024/12/17,11/12/2024, mumbai,,500,10,5,,,
+1093,,30,,9876543210,21-03-2024,2023-06-17,,Tamil Nadu,9999999,-1,0,NetBanking,Yes,
+1036,sara ,35,abc@,99999abc,2024.03.24,2023-03-04, mumbai,Tamil Nadu,500,2,5,Cash,,Electronics
+1092,Anita,200,test@gmail.com,,2024/05/02,06-05-2024,,Maharashtra,100,10,10,NetBanking,Y,Electronics
+1021,Anita,35,abc@,9876543210,03-02-2023,2023-04-16,Delhi,Maharashtra,,-1,5,UPI ,No,
+1067,sara ,25,,99999abc,12/14/2023,2024.10.21, mumbai,Tamil Nadu,500,10,,UPI ,Y,Electronics
+1019,sara ,,user@domain,,05-04-2023,10/14/2024, mumbai,Tamil Nadu,,10,10,UPI ,No,Clothing
+1095,RAHUL,-5,user@domain,99999abc,2023.03.13,2024.01.09,Chennai,Tamil Nadu,,,5,UPI ,N,Grocery
+1099,Anita,35,abc@,,2024-07-04,2023/12/16,,Tamil Nadu,500,,0,card,Yes,Grocery
+1067,Anita,200,user@domain,9876543210,2023/06/03,2023/02/25,,Tamil Nadu,1000,10,5,UPI ,Yes, electronics 
+1090,RAHUL,25,,99999abc,09/07/2023,2023-06-19, mumbai,,9999999,5,0,card,N,Clothing
+1063,  Amit,30,abc@,12345,2024-11-04,11/23/2024,Delhi,Maharashtra,500,,,card,,Electronics
+1016,RAHUL,30,user@domain,99999abc,2024/03/13,2024-12-10,Delhi,,100,2,5,,N,Electronics
+1011,,200,test@gmail.com,,2023.04.28,2023/03/17,Delhi,,,-1,,card,N, electronics 
+1021,Anita,25,test@gmail.com,9876543210,11/02/2023,07-06-2023,,Delhi,-300,-1,10,card,No, electronics 
+1016,sara ,-5,,,2023.09.25,11/22/2023,Chennai,,500,2,0,UPI ,N,Electronics
+1009,,35,user@domain,99999abc,2023/02/23,2024-11-22, mumbai,Tamil Nadu,9999999,2,10,card,Yes,Electronics
+1064,Anita,25,,99999abc,2023/08/24,2023-01-14,PUNE ,Tamil Nadu,,2,0,NetBanking,Y,Clothing
+1021,RAHUL,30,abc@,12345,2024.01.24,10/09/2023,Chennai,Delhi,1000,2,,UPI ,No, electronics 
+1089,,200,test@gmail.com,9876543210,05-02-2024,17-09-2024,PUNE ,Delhi,100,1,110,Cash,No,Clothing
+1081,Anita,200,abc@,9876543210,2024.09.15,2023-07-13,Chennai,Delhi,1000,-1,5,UPI ,,Electronics
+1049,  Amit,35,user@domain,99999abc,10/30/2023,2024/01/11,Delhi,Delhi,-300,1,,card,Y,
+1013,  Amit,200,,9876543210,2023-07-26,2024-02-01,,Delhi,500,10,0,NetBanking,No,
+1063,sara ,200,,12345,2023-08-17,2023-07-13,PUNE ,,,10,0,UPI ,N,Electronics
+1046,Anita,25,,,31-07-2024,2024.01.09,Chennai,Delhi,500,-1,0,NetBanking,No, electronics 
+1028,  Amit,-5,abc@,9876543210,2023/03/16,12/14/2024,,,9999999,10,0,Cash,No,
+1075,RAHUL,35,test@gmail.com,99999abc,10-03-2024,12/06/2023,PUNE ,Maharashtra,500,2,5,Cash,No, electronics 
+1035,Anita,25,abc@,,04/13/2023,12-12-2023, mumbai,Delhi,100,1,10,,,
+1098,RAHUL,-5,abc@,,26-02-2024,2024/02/23,Chennai,Delhi,-300,2,110,,No, electronics 
+1051,RAHUL,25,user@domain,12345,04-12-2024,2024.06.30, mumbai,,1000,10,5,UPI ,No,
+1075,  Amit,,user@domain,99999abc,2023-11-02,2023/03/14,Delhi,Maharashtra,-300,,0,,, electronics 
+1006,Anita,25,user@domain,9876543210,04/08/2023,2024/05/16, mumbai,,,1,5,NetBanking,Y,Clothing
+1028,,200,test@gmail.com,99999abc,01-12-2023,2024-11-22, mumbai,,500,2,,,Yes, electronics 
+1010,  Amit,-5,test@gmail.com,,10-03-2024,01-05-2023,Chennai,Delhi,,-1,0,NetBanking,,Clothing
+1032,  Amit,35,user@domain,99999abc,2024-03-22,2024/03/13,Delhi,Tamil Nadu,1000,2,110,,,Clothing
+1005,Anita,35,user@domain,9876543210,04-11-2023,2024.09.06, mumbai,Tamil Nadu,,,0,,No,Electronics
+1078,Anita,-5,test@gmail.com,9876543210,2023.09.06,11/10/2023,,,9999999,10,110,,No,Clothing
+1031,RAHUL,200,,12345,2023-06-15,10/16/2023,PUNE ,Delhi,-300,1,110,card,Yes,Grocery
+1050,Anita,30,test@gmail.com,9876543210,2024/04/25,26-06-2024, mumbai,Maharashtra,1000,-1,10,card,No,Clothing
+1074,RAHUL,25,test@gmail.com,9876543210,2023.12.01,06/15/2024,Delhi,Tamil Nadu,1000,1,10,,N, electronics 
+1057,  Amit,200,test@gmail.com,99999abc,2024.06.25,06-04-2024, mumbai,Maharashtra,1000,-1,5,NetBanking,No,Clothing
+1086,sara ,,user@domain,99999abc,04/16/2023,2024-11-07,PUNE ,Tamil Nadu,100,1,5,UPI ,No, electronics 
+1025,,-5,,,2024/07/16,2024.02.06,Delhi,Delhi,-300,10,110,Cash,N, electronics 
+1097,  Amit,25,test@gmail.com,12345,22-03-2023,2024-12-24,Chennai,,,-1,0,card,Yes,Grocery
+1045,Anita,35,user@domain,99999abc,2023-05-13,2023/12/07,Delhi,Maharashtra,1000,5,,,N,Clothing
+1097,,30,abc@,9876543210,18-05-2023,2023-11-19,Chennai,Maharashtra,-300,1,,Cash,,Clothing
+1028,sara ,,abc@,,07/03/2023,05/24/2024,Delhi,,1000,1,0,card,N,
+1003,sara ,35,test@gmail.com,99999abc,2024/02/05,04/23/2023,PUNE ,Maharashtra,9999999,2,0,UPI ,Y,
+1080,RAHUL,-5,abc@,12345,2023/11/26,2024-05-14,PUNE ,Tamil Nadu,9999999,-1,10,NetBanking,,Electronics
+1098,,25,,12345,05/22/2024,2023-01-09,Delhi,,9999999,,,,No, electronics 
+1012,RAHUL,-5,abc@,,03/10/2023,2024-04-21, mumbai,Tamil Nadu,500,5,110,UPI ,,Grocery
+1038,  Amit,25,abc@,,2024-06-29,09-06-2024,PUNE ,Tamil Nadu,1000,10,5,card,Yes,
+1014,,200,,,22-02-2023,2023.04.28,Chennai,Delhi,500,2,10,,Yes,Clothing
+1028,  Amit,30,test@gmail.com,,25-03-2024,2023.07.06,Chennai,Tamil Nadu,-300,5,,Cash,N,Electronics
+1028,RAHUL,200,test@gmail.com,,2023.07.24,26-02-2024,,Delhi,500,-1,0,NetBanking,,Grocery
+1074,,200,,9876543210,2023.05.06,2023/05/09,Chennai,Maharashtra,-300,5,,card,No,Clothing
+1031,RAHUL,-5,,9876543210,2023/02/12,09/16/2023,,Maharashtra,-300,1,110,NetBanking,Yes,Clothing
+1001,,30,,99999abc,21-04-2023,09/16/2023,Delhi,Delhi,-300,1,10,,No, electronics 
+1046,RAHUL,25,abc@,12345,10/24/2024,14-12-2023,Delhi,Tamil Nadu,,2,0,UPI ,Y, electronics 
+1077,sara ,25,,9876543210,07/02/2023,2024/05/19,Delhi,,500,-1,110,NetBanking,Yes,
+1083,RAHUL,,user@domain,9876543210,2023/04/05,08-03-2023, mumbai,,,-1,5,Cash,N,
+1021,sara ,35,abc@,9876543210,2024.01.09,2024-11-07, mumbai,Delhi,1000,5,10,card,Y,Clothing
+1074,RAHUL,,test@gmail.com,99999abc,2024/06/03,2024.01.28,,Maharashtra,500,2,110,Cash,,Clothing
+1026,,,test@gmail.com,,2023/12/26,12/02/2024,Chennai,Maharashtra,1000,-1,110,NetBanking,No,
+1066,,25,test@gmail.com,99999abc,2024/11/26,2024/07/04,Chennai,,1000,,0,UPI ,Yes,
+1080,,-5,abc@,12345,2023-10-08,23-08-2024,Delhi,Delhi,-300,,5,UPI ,Y,Clothing
+1055,Anita,200,user@domain,12345,07/14/2023,2024/02/23,PUNE ,,500,1,110,Cash,Y,Grocery
+1091,  Amit,200,,12345,07/14/2023,2023-08-17, mumbai,Tamil Nadu,1000,5,10,,Yes,Clothing
+1092,,200,,12345,2024.10.28,01/21/2024, mumbai,Tamil Nadu,9999999,10,110,,,Grocery
+1020,sara ,30,test@gmail.com,9876543210,04/03/2023,2023/08/27,Delhi,Delhi,1000,1,,UPI ,,Grocery
+1046,,25,test@gmail.com,9876543210,2024-11-02,09/01/2023, mumbai,Delhi,9999999,2,10,Cash,N,Clothing
+1079,Anita,-5,abc@,99999abc,2023/03/02,2024-11-29,Delhi,Tamil Nadu,500,-1,10,Cash,,Electronics
+,sara ,30,user@domain,,09/25/2024,2023.06.22,,Maharashtra,,1,110,Cash,N,
+1058,Anita,35,,12345,2023-02-20,2024-05-11,Chennai,Delhi,500,10,0,NetBanking,Y, electronics 
+1083,sara ,-5,abc@,99999abc,02/07/2024,2024-06-29,PUNE ,Tamil Nadu,,10,10,,Yes,Clothing
+1005,RAHUL,,,9876543210,05-01-2023,17-02-2023,Chennai,Tamil Nadu,,,,,,Grocery
+1018,  Amit,-5,test@gmail.com,9876543210,04/10/2024,2023/05/25,Chennai,Maharashtra,500,2,0,NetBanking,N,Clothing
+1056,  Amit,-5,,,26-08-2024,2023-05-12,,Maharashtra,1000,1,0,card,Y,
+1068,Anita,200,user@domain,,11/12/2024,10/04/2023, mumbai,Maharashtra,100,5,0,NetBanking,,Grocery
+1002,  Amit,-5,user@domain,,2024/06/17,04-01-2024,PUNE ,Maharashtra,1000,1,10,Cash,No, electronics 
+1000,Anita,,test@gmail.com,99999abc,09-02-2024,06/02/2023, mumbai,,1000,,0,NetBanking,Y, electronics 
+1057,Anita,,user@domain,9876543210,2024/05/27,2024.07.09,Chennai,Maharashtra,-300,10,110,Cash,, electronics 
+1037,Anita,25,user@domain,9876543210,10/06/2024,2024/06/01,Delhi,,-300,2,0,UPI ,Y,Electronics
+1014,  Amit,-5,abc@,,2023-08-21,28-01-2024,Chennai,Delhi,1000,2,,Cash,Yes,Grocery
+1033,Anita,200,,12345,2024/06/07,05-11-2023, mumbai,Tamil Nadu,9999999,5,5,,Yes,Grocery
+1060,  Amit,-5,test@gmail.com,,2023/12/12,2023/05/07,Chennai,,,2,,NetBanking,Yes,Electronics
+1034,Anita,35,test@gmail.com,99999abc,2023-02-15,2024-11-29,Delhi,Delhi,-300,,10,Cash,No,Grocery
+1063,,35,test@gmail.com,,29-06-2024,2023/05/25,,Delhi,1000,,0,card,Yes,Electronics
+1024,Anita,200,test@gmail.com,,19-03-2023,06-10-2023, mumbai,,100,,0,UPI ,No,Clothing
+1023,sara ,25,test@gmail.com,99999abc,12/30/2024,2024.08.26,Chennai,Delhi,9999999,2,110,card,Yes,
+1011,Anita,25,user@domain,,2023/03/14,10/30/2023, mumbai,Delhi,500,2,0,card,Y, electronics 
+1017,RAHUL,,abc@,9876543210,2023.09.06,2023-04-23,,,1000,,,card,,Electronics
+1014,Anita,,test@gmail.com,12345,2023.02.16,18-09-2023,Chennai,Delhi,1000,2,10,UPI ,,Electronics
+1079,sara ,30,abc@,,01-05-2023,2023-04-27,Chennai,Maharashtra,,2,5,UPI ,Yes,Electronics
+1026,sara ,200,abc@,99999abc,2023/08/02,2024-12-24, mumbai,Maharashtra,9999999,10,0,UPI ,,Clothing
+1071,  Amit,-5,user@domain,12345,2023/08/27,2024.09.15, mumbai,Tamil Nadu,-300,1,5,UPI ,Yes,Electronics
+1059,,200,test@gmail.com,99999abc,2023/02/25,2023-03-21,Delhi,Delhi,-300,-1,0,card,Yes,
+1045,Anita,30,user@domain,12345,2023/12/16,2024.07.20,,Tamil Nadu,-300,2,10,,N,
+1088,  Amit,,test@gmail.com,12345,2023.04.17,01-11-2023,Delhi,Maharashtra,500,-1,,,N, electronics 
+1016,,200,user@domain,,17-02-2023,2024/02/22,Chennai,Maharashtra,9999999,-1,10,UPI ,N,Clothing
+1092,Anita,200,abc@,9876543210,2024-07-26,2024/02/05, mumbai,Maharashtra,9999999,10,5,NetBanking,No,
+1052,RAHUL,,test@gmail.com,,2023.12.03,25-09-2024,Chennai,Delhi,-300,2,0,Cash,N,Grocery
+1007,Anita,30,,99999abc,01/26/2023,2023/09/26,Chennai,Delhi,-300,,5,NetBanking,Yes,Grocery
+1078,sara ,,abc@,99999abc,09/14/2023,09-06-2023,PUNE ,Maharashtra,,-1,,NetBanking,Y,Grocery
+1026,sara ,25,,12345,08-01-2023,2023.04.28,PUNE ,Tamil Nadu,100,2,10,NetBanking,N,Electronics
+1045,RAHUL,-5,abc@,12345,2024-09-16,2024-06-20,Chennai,Tamil Nadu,100,5,5,,N,Electronics
+1049,  Amit,,user@domain,9876543210,09/10/2023,2023-12-16, mumbai,,1000,,5,Cash,Y,Grocery
+1070,,30,test@gmail.com,,2024/11/22,2023-01-03,Chennai,Maharashtra,1000,5,,NetBanking,Yes, electronics 
+1002,Anita,35,abc@,99999abc,2024/12/19,2024.04.20,PUNE ,Tamil Nadu,9999999,5,0,UPI ,No, electronics 
+1092,sara ,25,user@domain,12345,2023.10.30,11/19/2023, mumbai,Maharashtra,9999999,-1,5,,N,Electronics
+1063,  Amit,35,test@gmail.com,9876543210,2024.09.30,2024.09.15,Chennai,Tamil Nadu,500,5,,UPI ,Y,Grocery
+1043,RAHUL,,test@gmail.com,99999abc,25-02-2023,2024/09/29,,,500,10,0,UPI ,Yes, electronics 
+1052,sara ,25,abc@,12345,12/26/2024,01/31/2024,,,100,10,0,NetBanking,,Electronics
+1023,RAHUL,-5,test@gmail.com,99999abc,2024/06/09,2024/12/19,Chennai,Maharashtra,1000,-1,10,UPI ,No,Grocery
+1059,Anita,,abc@,9876543210,2024.04.18,2023-05-03, mumbai,Tamil Nadu,100,2,,Cash,Y,Clothing
+1002,,-5,test@gmail.com,9876543210,01/28/2023,01/27/2023,Chennai,Delhi,100,1,0,UPI ,Y,Grocery
+1019,sara ,200,,99999abc,03/19/2023,02/27/2023,Chennai,,1000,2,10,NetBanking,Y,Grocery
+1045,sara ,35,user@domain,,2023.08.04,23-08-2024,PUNE ,Maharashtra,500,2,110,UPI ,N,
+1014,Anita,25,,99999abc,01/21/2024,2023.12.29,,Maharashtra,,2,,,,
+1024,  Amit,-5,abc@,12345,2023/12/31,08/29/2024,PUNE ,Tamil Nadu,,2,110,,No,Clothing
+1093,,30,,,27-10-2024,2024.05.04,PUNE ,Maharashtra,,,0,,Yes,Clothing
+1077,sara ,-5,abc@,12345,2024/06/09,02-09-2024,Chennai,,1000,1,,card,Yes,Grocery
+1070,,30,test@gmail.com,99999abc,29-11-2024,2024.09.15,PUNE ,Maharashtra,-300,,10,,, electronics 
+1016,sara ,,test@gmail.com,,2023.11.08,2023/04/26,,Maharashtra,-300,5,0,,Y,Clothing
+1083,,25,abc@,12345,07-01-2023,04/04/2024,PUNE ,Delhi,-300,2,,card,Y,Grocery
+1099,RAHUL,-5,,99999abc,2023-01-03,2023/12/31,,Delhi,9999999,10,,,Y,Electronics
+1008,sara ,-5,test@gmail.com,99999abc,14-09-2024,07/07/2024,PUNE ,,500,-1,110,NetBanking,Y,
+1037,,25,user@domain,,2023.12.29,2024/01/29,,Tamil Nadu,500,-1,0,,Y, electronics 
+1047,  Amit,-5,test@gmail.com,99999abc,05/22/2024,2023-03-21,PUNE ,Delhi,9999999,,10,,,Grocery
+1059,RAHUL,30,user@domain,9876543210,01-10-2023,25-02-2023,PUNE ,Tamil Nadu,100,,10,card,N,Electronics
+1062,RAHUL,-5,,12345,2024/05/20,2023/12/31, mumbai,,,10,0,NetBanking,No,
+1085,  Amit,35,user@domain,12345,2023-01-15,07/09/2023,,Delhi,-300,2,0,UPI ,Y,Electronics
+1001,,,user@domain,99999abc,11-07-2023,2024/05/30,,Tamil Nadu,,1,5,Cash,N,Grocery
+1087,Anita,200,user@domain,99999abc,09/22/2024,2024.01.31,,Delhi,-300,5,110,NetBanking,Yes,Clothing
+1071,  Amit,30,user@domain,9876543210,04/29/2024,09/09/2023,Delhi,,,-1,0,UPI ,,
+1010,,35,test@gmail.com,,2023-01-28,05-01-2023,PUNE ,,100,5,0,NetBanking,N,Electronics
+1063,  Amit,,user@domain,99999abc,12/14/2024,04/29/2024,,Delhi,,1,5,UPI ,Y,Clothing
+1076,  Amit,25,test@gmail.com,99999abc,2023/02/08,2024/06/03,Delhi,Tamil Nadu,,,5,UPI ,Y, electronics 
+1080,sara ,30,user@domain,99999abc,09/30/2023,2023-03-15, mumbai,Maharashtra,1000,-1,,NetBanking,Y,Grocery
+1071,,200,abc@,99999abc,2023.08.19,2023.08.30,,Maharashtra,,5,10,card,N,Grocery
+1020,Anita,,,12345,27-03-2023,2024/05/20,,Delhi,1000,,110,NetBanking,Y,
+1017,sara ,200,user@domain,99999abc,04/18/2024,2023.01.02,Delhi,Tamil Nadu,500,1,,NetBanking,N,Electronics
+1093,  Amit,25,abc@,12345,2023/05/06,06-05-2024,PUNE ,Maharashtra,9999999,5,0,UPI ,Y, electronics 
+1063,  Amit,25,user@domain,99999abc,2024-06-20,2023-06-25, mumbai,,,2,5,Cash,Yes,
+1081,  Amit,30,user@domain,,05/25/2023,2023.05.15,,Tamil Nadu,500,,10,UPI ,Yes,
+1094,,-5,user@domain,9876543210,2024/06/08,2023/03/17,PUNE ,Maharashtra,1000,1,,,No,Electronics
+1037,,25,abc@,,2023-07-31,2023.11.18, mumbai,Tamil Nadu,,5,10,NetBanking,Y, electronics 
+1031,sara ,,,99999abc,2023-01-25,2023-02-10,Chennai,Delhi,,2,5,NetBanking,Y,Electronics
+1010,Anita,-5,abc@,99999abc,02-08-2024,02/19/2024,Chennai,Tamil Nadu,100,2,,card,N,Grocery
+1044,sara ,35,,99999abc,2024/01/29,2023.05.31, mumbai,Maharashtra,500,1,,UPI ,N,Clothing
+1088,RAHUL,200,user@domain,,08-03-2023,2024-02-06,Delhi,Delhi,-300,10,10,card,Y,Grocery
+1032,  Amit,-5,test@gmail.com,99999abc,2023/08/21,2023/12/23, mumbai,Tamil Nadu,-300,-1,5,NetBanking,No,Grocery
+1040,  Amit,200,user@domain,,04/19/2023,06/10/2023, mumbai,,100,1,0,UPI ,Y,
+1007,  Amit,-5,,12345,05/26/2023,01/21/2023,Delhi,Maharashtra,1000,2,,UPI ,N,Grocery
+1010,sara ,35,abc@,9876543210,2023-04-21,01/18/2023,Delhi,Delhi,-300,2,0,,Y, electronics 
+1085,sara ,25,user@domain,9876543210,16-08-2023,2023/04/01,PUNE ,Tamil Nadu,-300,1,5,,N,Grocery
+1050,  Amit,35,abc@,,2023/04/21,2024/02/22,PUNE ,,9999999,10,,Cash,Y, electronics 
+1087,sara ,25,abc@,12345,14-04-2024,2024-06-01,Delhi,Maharashtra,500,-1,,,,Electronics
+1040,,25,abc@,,2023/02/03,2024/04/18,Chennai,,1000,5,0,UPI ,N,
+1016,,200,user@domain,12345,14-09-2024,,Chennai,Tamil Nadu,,1,110,,No, electronics 
+1075,sara ,,abc@,99999abc,04-01-2024,08-08-2023, mumbai,Tamil Nadu,500,-1,0,Cash,,Grocery
+1045,  Amit,35,abc@,12345,2024/08/17,27-09-2024,,Delhi,1000,-1,0,NetBanking,Y,
+1031,sara ,-5,user@domain,12345,07/07/2024,01-12-2023, mumbai,,-300,,110,,N,
+1078,sara ,35,abc@,12345,2024-02-29,11/20/2024, mumbai,Delhi,9999999,2,5,UPI ,, electronics 
+1079,sara ,200,user@domain,9876543210,2024/09/04,11/19/2024,,Maharashtra,500,5,5,NetBanking,No, electronics 
+1053,RAHUL,25,,12345,2024/06/01,18-07-2024,Delhi,Delhi,-300,1,,UPI ,N,Clothing
+1085,,200,,99999abc,2024-11-22,07/19/2024,Chennai,Maharashtra,1000,2,10,NetBanking,,Clothing
+1091,Anita,30,,99999abc,10/09/2023,2024/02/05, mumbai,Tamil Nadu,500,,10,UPI ,,
+1019,Anita,30,abc@,99999abc,2023/11/16,2024.04.01,,Tamil Nadu,,,,,,Clothing
+1032,RAHUL,-5,test@gmail.com,12345,18-03-2024,07/07/2024,PUNE ,,500,2,10,,Yes,Grocery
+1073,sara ,200,test@gmail.com,,11-11-2023,2023-01-14, mumbai,Maharashtra,-300,10,0,Cash,Y,Electronics
+1039,RAHUL,-5,abc@,,2024.01.12,04/09/2023,Chennai,Tamil Nadu,500,-1,0,NetBanking,N,
+1031,RAHUL,-5,test@gmail.com,99999abc,10/16/2023,2023-03-10,Delhi,,,1,110,Cash,N,Electronics
+1096,  Amit,30,user@domain,9876543210,2024.03.12,09/10/2023, mumbai,,9999999,1,110,card,N,Clothing
+1001,,-5,test@gmail.com,,2024/10/23,2023.01.28, mumbai,Delhi,9999999,1,,,, electronics 
+1096,Anita,30,abc@,12345,2023-10-04,2023-08-17,,,-300,2,,NetBanking,Y,
+1032,sara ,25,abc@,,2024-12-10,03/28/2024,PUNE ,Tamil Nadu,1000,10,,Cash,No,Clothing
+1076,Anita,200,user@domain,99999abc,04-08-2024,2023/02/06,PUNE ,Delhi,-300,5,0,Cash,N,Grocery
+1029,Anita,-5,,9876543210,2024-05-17,2023.12.01,Delhi,Maharashtra,9999999,,10,card,Y,
+1032,,30,abc@,,2024.09.15,2024-06-01,Chennai,Maharashtra,100,2,,Cash,Y,
+1076,Anita,35,user@domain,,2024/05/30,28-03-2024,Delhi,Tamil Nadu,100,5,,UPI ,Yes, electronics 
+1025,Anita,-5,test@gmail.com,99999abc,2023/12/16,2023-07-13, mumbai,Tamil Nadu,500,,0,,N,
+1021,RAHUL,,test@gmail.com,9876543210,21-03-2024,2023.08.30, mumbai,Delhi,,,0,Cash,, electronics 
+1065,,25,user@domain,9876543210,2023-12-16,02-04-2024,PUNE ,Delhi,500,10,0,Cash,Y,Clothing
+1037,  Amit,25,user@domain,99999abc,08/29/2024,2023/02/23,Chennai,Tamil Nadu,100,-1,10,card,Y,Grocery
+1089,sara ,35,abc@,12345,2024-10-25,2024-01-15,,Tamil Nadu,9999999,1,,UPI ,No,Grocery
+1045,Anita,30,test@gmail.com,,2023/05/17,2023/07/07,Chennai,Maharashtra,500,5,5,Cash,Yes,
+1014,sara ,-5,user@domain,12345,08/31/2023,09/16/2023, mumbai,Maharashtra,-300,2,5,,Y,
+1097,  Amit,30,test@gmail.com,,26-06-2024,2023.07.21,,Maharashtra,,5,,,Y,Clothing
+1043,sara ,25,user@domain,,2023-02-09,18-10-2024,Chennai,Tamil Nadu,-300,-1,,Cash,, electronics 
+1048,  Amit,30,test@gmail.com,12345,2023-08-17,13-08-2023,Chennai,,,1,,UPI ,,Grocery
+1074,RAHUL,25,,99999abc,2024.07.01,26-06-2024,,Tamil Nadu,9999999,5,,,No, electronics 
+1060,Anita,30,abc@,99999abc,2023/08/11,2024/11/30, mumbai,Tamil Nadu,500,-1,10,,No,Clothing
+1066,  Amit,35,test@gmail.com,,01/06/2023,2024/05/10,Chennai,Maharashtra,,2,5,UPI ,No,Grocery
+1005,sara ,200,,99999abc,2023.11.18,21-02-2024,,Tamil Nadu,-300,10,110,UPI ,,Grocery
+1008,Anita,35,test@gmail.com,,2024-04-12,29-11-2024, mumbai,Delhi,500,,5,Cash,,Electronics
+1005,RAHUL,35,test@gmail.com,99999abc,2023/03/16,16-09-2023,,Tamil Nadu,500,2,5,NetBanking,Yes,Clothing
+1072,Anita,200,,,2023/01/04,2023.04.09,,Tamil Nadu,-300,1,0,card,N,Clothing
+1094,  Amit,200,test@gmail.com,99999abc,07-10-2024,2023.12.15,Chennai,Tamil Nadu,100,,,NetBanking,N,Electronics
+1031,RAHUL,-5,test@gmail.com,9876543210,2023.04.28,11/22/2023, mumbai,Tamil Nadu,,2,,NetBanking,Yes, electronics 
+1040,sara ,-5,abc@,12345,2024.08.28,07/30/2024,Chennai,,-300,2,,,N,Electronics
+1075,RAHUL,35,,9876543210,18-05-2024,13-04-2023,Delhi,Tamil Nadu,9999999,2,0,UPI ,,Clothing
+1007,RAHUL,35,,12345,2024-07-27,01/22/2023,Delhi,Delhi,1000,2,10,,N, electronics 
+1071,,25,user@domain,12345,2024/03/16,10/23/2023, mumbai,Delhi,-300,,10,card,,Grocery
+1049,RAHUL,25,test@gmail.com,,2023-07-13,13-08-2023,,Tamil Nadu,500,1,110,Cash,Yes,Electronics
+1091,RAHUL,-5,abc@,12345,15-12-2024,30-05-2024,Chennai,Maharashtra,500,-1,10,card,No, electronics 
+1061,Anita,,test@gmail.com,9876543210,2024.01.27,27-12-2024,Chennai,,-300,5,10,,Yes, electronics 
+1083,sara ,,test@gmail.com,9876543210,01/26/2023,09-04-2023, mumbai,Tamil Nadu,1000,10,,,N, electronics 
+1061,Anita,-5,user@domain,99999abc,2024.03.10,2023/03/14, mumbai,Tamil Nadu,-300,5,5,,,Electronics
+1006,Anita,25,test@gmail.com,9876543210,2023.06.22,05-01-2023,Delhi,Tamil Nadu,1000,5,10,,N,Grocery
+1074,  Amit,25,abc@,99999abc,27-10-2023,2024.10.01,PUNE ,Maharashtra,1000,10,10,NetBanking,N, electronics 
+1083,Anita,,abc@,12345,2024/10/06,10/04/2023, mumbai,Maharashtra,9999999,,0,Cash,No,Electronics
+1079,,30,user@domain,9876543210,11/22/2023,2024.01.22,PUNE ,Maharashtra,,1,110,NetBanking,N,Clothing
+1003,,30,test@gmail.com,12345,2024-02-14,2024.01.28, mumbai,,500,10,0,,No,Electronics
+1005,  Amit,25,abc@,9876543210,2023-04-28,01/20/2023,,Delhi,500,1,,UPI ,,Electronics
+1057,sara ,30,test@gmail.com,9876543210,2024-12-24,04/19/2024,,,1000,,5,NetBanking,,Electronics
+1021,sara ,200,test@gmail.com,99999abc,2023/08/13,2023-06-25,Delhi,Maharashtra,500,5,110,,No, electronics 
+1025,Anita,-5,test@gmail.com,12345,2024/06/15,2024.08.02,Delhi,Delhi,100,1,0,,Yes,Electronics
+1002,Anita,-5,user@domain,9876543210,23-04-2023,2024.04.20,PUNE ,Delhi,1000,,10,Cash,,Clothing
+1040,Anita,25,test@gmail.com,,2023/05/20,09/16/2023, mumbai,Maharashtra,500,,10,card,Yes, electronics 
+1059,sara ,35,abc@,12345,2024.07.12,2024.01.09,Chennai,Maharashtra,100,-1,110,NetBanking,,Clothing
+1013,RAHUL,,test@gmail.com,12345,2023/01/01,06/15/2024,Delhi,,9999999,10,10,NetBanking,,
+1074,,25,abc@,12345,2023/03/31,2023.01.12,Chennai,Maharashtra,500,-1,0,NetBanking,Y,Electronics
+1081,RAHUL,30,test@gmail.com,99999abc,2024/10/15,2024.11.07,Chennai,Delhi,100,5,0,,N, electronics 
+1011,RAHUL,,abc@,,11/16/2023,2023-08-17, mumbai,Tamil Nadu,-300,10,10,Cash,N, electronics 
+1086,sara ,35,abc@,12345,03-07-2024,2024-11-07,PUNE ,Maharashtra,,5,10,,Yes,Electronics
+1011,RAHUL,30,test@gmail.com,9876543210,05/19/2023,2024.01.12, mumbai,Maharashtra,-300,-1,,,N,Grocery
+1012,  Amit,200,test@gmail.com,9876543210,2024.05.25,10-09-2023,Delhi,,100,,5,UPI ,Yes,Grocery
+1024,Anita,30,abc@,99999abc,09/16/2023,2023-04-21,Chennai,,1000,5,110,Cash,,Clothing
+1044,  Amit,200,,9876543210,03-11-2024,2023-02-27, mumbai,Maharashtra,1000,10,0,NetBanking,Y,Electronics
+1018,,,user@domain,12345,2024.11.20,2023/09/26, mumbai,Delhi,500,10,110,card,Y,Electronics
+1054,Anita,200,,9876543210,2023.01.10,2024-11-21, mumbai,Delhi,-300,5,,NetBanking,,
+1099,RAHUL,,,12345,18-09-2023,10/09/2023,Delhi,Tamil Nadu,1000,10,0,,No,Grocery
+1044,,,test@gmail.com,9876543210,2024-10-11,2023.05.31,PUNE ,Maharashtra,1000,,,Cash,No,Grocery
+1007,Anita,,user@domain,,2023/06/21,2023.01.12, mumbai,,-300,,,Cash,N,Electronics
+1092,RAHUL,,,99999abc,2023/01/13,2024.07.19,Delhi,Delhi,9999999,10,10,Cash,Yes,Clothing
+1052,  Amit,,test@gmail.com,99999abc,17-06-2023,2023/10/16,Chennai,Tamil Nadu,1000,5,110,UPI ,Y,Electronics
+1054,Anita,30,,,2024-10-03,10-10-2023,,Maharashtra,,-1,110,NetBanking,N,Clothing
+1031,RAHUL,,,,18-08-2024,03-08-2024,Delhi,Delhi,100,10,10,UPI ,,Grocery
+1050,  Amit,30,test@gmail.com,99999abc,2023-11-17,2023-08-13,,Maharashtra,500,10,110,card,Y,
+1043,,,test@gmail.com,,2023.11.15,2024/02/26, mumbai,Maharashtra,1000,10,10,,Yes, electronics 
+1081,,200,test@gmail.com,12345,2024-09-04,2023/03/31, mumbai,Delhi,,10,0,UPI ,Yes,Grocery
+1070,,,user@domain,12345,30-05-2024,05/06/2023,,Tamil Nadu,500,5,0,Cash,N,Grocery
+1076,  Amit,25,test@gmail.com,99999abc,2023/02/08,2024/06/03,Delhi,Tamil Nadu,,,5,UPI ,Y, electronics 
+1007,Anita,,user@domain,,2023/06/21,2023.01.12, mumbai,,-300,,,Cash,N,Electronics
+1055,Anita,30,,99999abc,07-10-2023,2023/08/19,Delhi,Delhi,-300,1,110,,Y,Grocery
+1014,,25,test@gmail.com,,2024-06-05,02-05-2023,Chennai,Tamil Nadu,9999999,-1,5,card,No,Grocery
+1046,Anita,25,user@domain,99999abc,2023.08.18,03/25/2024,Chennai,,,2,5,card,Y,Clothing
+1094,  Amit,200,test@gmail.com,99999abc,07-10-2024,2023.12.15,Chennai,Tamil Nadu,100,,,NetBanking,N,Electronics
+1022,,200,,9876543210,2024/02/05,01/22/2023,,Maharashtra,-300,,5,,N,Clothing
+1087,sara ,25,abc@,12345,14-04-2024,2024-06-01,Delhi,Maharashtra,500,-1,,,,Electronics
+1029,sara ,25,,,2024-05-25,13-07-2024, mumbai,Maharashtra,9999999,5,0,NetBanking,,Electronics
+1001,RAHUL,-5,test@gmail.com,9876543210,2023-02-10,2024-03-19,Chennai,Tamil Nadu,9999999,1,0,,Y, electronics 
+1017,RAHUL,,abc@,9876543210,2023.09.06,2023-04-23,,,1000,,,card,,Electronics
+1072,sara ,25,test@gmail.com,9876543210,2024-07-18,10/24/2024, mumbai,,1000,1,,Cash,N, electronics 
+,RAHUL,200,user@domain,,29-09-2024,2023.01.28,PUNE ,Delhi,500,-1,0,UPI ,N,
+1029,  Amit,-5,test@gmail.com,12345,2024/07/17,31-08-2024, mumbai,Tamil Nadu,500,10,,card,,Electronics
+1061,RAHUL,35,,,07/17/2023,2023.09.29,Delhi,Tamil Nadu,9999999,-1,5,UPI ,N,Clothing
+1075,sara ,,abc@,99999abc,04-01-2024,08-08-2023, mumbai,Tamil Nadu,500,-1,0,Cash,,Grocery
+1040,Anita,30,user@domain,12345,12/04/2024,05/26/2023,Chennai,Maharashtra,100,2,5,UPI ,No,Clothing
+1036,sara ,,abc@,12345,12/06/2024,02/05/2024,PUNE ,Tamil Nadu,-300,5,10,card,Y,Clothing
+,RAHUL,,test@gmail.com,9876543210,2024.12.25,2023-07-13,PUNE ,,100,2,10,NetBanking,N,Clothing
+1005,RAHUL,,abc@,12345,2024.06.30,2023/02/12,Delhi,Tamil Nadu,100,,10,UPI ,No,
+1071,RAHUL,,,99999abc,2024/09/04,03/13/2023,Delhi,Delhi,500,-1,0,NetBanking,,Clothing
+1038,Anita,25,abc@,99999abc,12-02-2023,2024-07-31,,Maharashtra,-300,2,,card,No, electronics 
+1025,RAHUL,35,test@gmail.com,12345,11-08-2023,2023-10-01,Delhi,Delhi,500,2,0,UPI ,N,Electronics
+1067,Anita,200,user@domain,12345,10/14/2024,2024-02-12,,Tamil Nadu,-300,2,110,NetBanking,Y,Clothing
+1086,sara ,35,abc@,12345,03-07-2024,2024-11-07,PUNE ,Maharashtra,,5,10,,Yes,Electronics
+1097,,25,test@gmail.com,,2023-02-27,2023/06/11,Delhi,Delhi,100,2,10,NetBanking,Y,Clothing
+1083,sara ,-5,abc@,99999abc,02/07/2024,2024-06-29,PUNE ,Tamil Nadu,,10,10,,Yes,Clothing
+1019,sara ,200,,99999abc,03/19/2023,02/27/2023,Chennai,,1000,2,10,NetBanking,Y,Grocery
+1031,RAHUL,,,,18-08-2024,03-08-2024,Delhi,Delhi,100,10,10,UPI ,,Grocery
+1034,,-5,test@gmail.com,,2024.11.07,2024/02/26,Chennai,,9999999,5,5,NetBanking,N, electronics 
+1097,RAHUL,30,abc@,99999abc,02-11-2024,2024-03-16,,Delhi,1000,1,110,UPI ,N,Electronics
+1006,RAHUL,200,test@gmail.com,12345,04/19/2024,2024.11.20, mumbai,,500,10,,Cash,Yes,Clothing
+1050,  Amit,-5,user@domain,99999abc,2024/07/15,03/20/2024,Delhi,Maharashtra,500,-1,0,,N,Clothing
+1030,  Amit,,test@gmail.com,12345,2023-06-20,2023.03.10, mumbai,Maharashtra,500,-1,10,,,
+1027,sara ,-5,user@domain,9876543210,08-08-2023,2023.08.04,PUNE ,Tamil Nadu,100,10,0,card,Y,
+1046,sara ,30,,99999abc,18-10-2024,2024-04-21,Delhi,,9999999,1,110,,Yes,Electronics
+1061,  Amit,200,,,2023/10/12,05/10/2023,Delhi,Delhi,-300,,0,,N,Clothing
+1050,sara ,200,user@domain,,2023-01-14,08/05/2023,PUNE ,Delhi,100,10,,Cash,N, electronics 
+1016,sara ,,test@gmail.com,,2023.11.08,2023/04/26,,Maharashtra,-300,5,0,,Y,Clothing
+1037,,25,abc@,,2023-07-31,2023.11.18, mumbai,Tamil Nadu,,5,10,NetBanking,Y, electronics 
+1078,sara ,,abc@,99999abc,09/14/2023,09-06-2023,PUNE ,Maharashtra,,-1,,NetBanking,Y,Grocery
+1028,  Amit,-5,abc@,9876543210,2023/03/16,12/14/2024,,,9999999,10,0,Cash,No,
+1043,sara ,,,9876543210,2023.04.28,2023.08.19,PUNE ,Delhi,,10,0,Cash,,Grocery
+1086,Anita,30,test@gmail.com,12345,2024/01/08,08-09-2023, mumbai,Maharashtra,500,,0,NetBanking,No,
+1029,sara ,30,user@domain,12345,05/26/2023,2023/12/05, mumbai,Tamil Nadu,9999999,2,,,No,Clothing
+1073,RAHUL,200,,,2024-05-31,2023.06.01,Delhi,Delhi,500,-1,110,NetBanking,,Electronics
+1003,,30,test@gmail.com,12345,2024-02-14,2024.01.28, mumbai,,500,10,0,,No,Electronics
+1026,,200,user@domain,,01/28/2023,04/08/2024,PUNE ,Tamil Nadu,-300,,110,NetBanking,N,Electronics
+1011,Anita,,test@gmail.com,12345,20-05-2024,2024-06-23,PUNE ,Delhi,-300,2,10,NetBanking,, electronics 
